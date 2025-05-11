@@ -1,0 +1,22 @@
+{
+  "name": "d2rmm-trading",
+  "version": "1.0.0",
+  "description": "Offline alternative to Battle.net trading",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pboutin/d2rmm-trading.git"
+  },
+  "author": "Pascal Boutin <contact@pboutin.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pboutin/d2rmm-trading/issues"
+  },
+  "homepage": "https://github.com/pboutin/d2rmm-trading#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
