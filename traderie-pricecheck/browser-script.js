@@ -4,7 +4,7 @@
 // @version      2025-05-11
 // @description  Check the average value of items on Traderie
 // @author       You
-// @match        https://traderie.com/diablo2resurrected/product/*
+// @match        https://traderie.com/diablo2resurrected/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=traderie.com
 // @grant        none
 // ==/UserScript==

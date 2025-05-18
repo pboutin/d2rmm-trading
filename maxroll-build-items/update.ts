@@ -1,4 +1,5 @@
 import * as cheerio from "cheerio";
+import fs from "fs";
 
 import MAXROLL_URLS from "./urls";
 import d2ioItems from "../d2io-items/items";
@@ -45,7 +46,17 @@ import d2ioItems from "../d2io-items/items";
     );
   }
 
-  console.log(etherealRelevantItemNamesSet);
+  fs.writeFileSync(
+    "./maxroll-build-items/items.ts",
+    `export default ${JSON.stringify(
+      {
+        noe: Array.from(relevantItemNamesSet),
+        eth: Array.from(etherealRelevantItemNamesSet),
+      },
+      null,
+      2
+    )}`
+  );
 
   console.log("Total items count:", itemNamesSet.size);
 
