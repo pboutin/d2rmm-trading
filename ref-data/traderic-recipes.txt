@@ -1,0 +1,1850 @@
+Rune Trading Recipes
+
+Perfect Amethyst x1 + Any Healing Potion = El(1) x3
+El(1) x3 + Any Healing Potion = Perfect Amethyst x1
+El(1) x3 + Key = Tal(7) x3
+
+Perfect Amethyst x1 + Any Mana Potion = Eld(2) x1
+Eld(2) x1 + Any Mana Potion = Perfect Amethyst x1
+Eld(2) x3 + Stamina Potion = Lum(17) x3
+Eld(2) x3 + Antidote Potion = Ko(18) x3
+Eld(2) x3 + Thawing Potion = Fal(19) x3
+
+Ral(8) x1 + Any Healing Potion = Tir(3) x2
+Tir(3) x2 + Any Healing Potion = Ral(8) x1
+Tir(3) x3 + Any Healing Potion = Nef(4) x3
+Tir(3) x3 + Any Mana Potion = Sol(12) x3
+Tir(3) x3 + Scroll of Town Portal = Shael(13) x3
+Tir(3) x3 + Scroll of Identify = Dol(14) x3
+
+Ral(8) x1 + Any Mana Potion = Nef(4) x2
+Nef(4) x2 + Any Mana Potion = Ral(8) x1
+Nef(4) x3 + Any Healing Potion = Tir(3) x3
+Nef(4) x3 + Any Mana Potion = Sol(12) x3
+Nef(4) x3 + Scroll of Town Portal = Shael(13) x3
+Nef(4) x3 + Scroll of Identify = Dol(14) x3
+
+Shael(13) x1 + Any Healing Potion = Eth(5) x2
+Eth(5) x2 + Any Healing Potion = Shael(13) x1
+
+Ort(9) x2 + Stamina Potion = Ith(6) x1
+Ith(6) x1 + Stamina Potion = Ort(9) x2
+Ith(6) x3 + Any Healing Potion = Thul(10) x3
+Ith(6) x3 + Any Mana Potion = Amn(11) x3
+
+Perfect Amethyst x1 + Stamina Potion = Tal(7) x3
+Tal(7) x3 + Stamina Potion = Perfect Amethyst x1
+Tal(7) x3 + Key = El(1) x3
+
+Perfect Amethyst x1 + Antidote Potion = Ral(8) x2
+Ral(8) x2 + Antidote Potion = Perfect Amethyst x1
+
+Shael(13) x1 + Any Mana Potion = Ort(9) x3
+Ort(9) x3 + Any Mana Potion = Shael(13) x1
+
+Ort(9) x2 + Antidote Potion = Thul(10) x1
+Thul(10) x1 + Antidote Potion = Ort(9) x2
+Thul(10) x3 + Any Healing Potion = Ith(6) x3
+Thul(10) x3 + Any Mana Potion = Amn(11) x3
+
+Ort(9) x2 + Thawing Potion = Amn(11) x1
+Amn(11) x1 + Thawing Potion = Ort(9) x2
+Amn(11) x3 + Any Healing Potion = Ith(6) x3
+Amn(11) x3 + Any Mana Potion = Thul(10) x3
+
+Ral(8) x1 + Stamina Potion = Sol(12) x2
+Sol(12) x2 + Stamina Potion = Ral(8) x1
+Sol(12) x3 + Any Healing Potion = Tir(3) x3
+Sol(12) x3 + Any Mana Potion = Nef(4) x3
+Sol(12) x3 + Scroll of Town Portal = Shael(13) x3
+Sol(12) x3 + Scroll of Identify = Dol(14) x3
+
+Ral(8) x1 + Antidote Potion = Shael(13) x2
+Shael(13) x2 + Antidote Potion = Ral(8) x1
+Sol(12) x3 + Any Healing Potion = Tir(3) x3
+Sol(12) x3 + Any Mana Potion = Nef(4) x3
+Sol(12) x3 + Scroll of Town Portal = Shael(13) x3
+Sol(12) x3 + Scroll of Identify = Dol(14) x3
+
+Ral(8) x1 + Thawing Potion = Dol(14) x2
+Dol(14) x2 + Thawing Potion = Ral(8) x1
+Dol(14) x3 + Any Healing Potion = Tir(3) x3
+Dol(14) x3 + Any Mana Potion = Nef(4) x3
+Dol(14) x3 + Scroll of Town Portal = Sol(12) x3
+Dol(14) x3 + Scroll of Identify = Shael(13) x3
+
+Perfect Amethyst x2 + Stamina Potion = Hel(15) x3
+Hel(15) x3 + Stamina Potion = Perfect Amethyst x2
+Hel(15) x3 + Key = Io(16) x3
+
+Perfect Amethyst x2 + Antidote Potion = Io(16) x3
+Io(16) x3 + Antidote Potion = Perfect Amethyst x2
+Io(16) x3 + Key = Hel(15) x3
+
+Perfect Amethyst x1 + Thawing Potion = Lum(17) x1
+Lum(17) x1 + Thawing Potion = Perfect Amethyst x1
+Lum(17) x3 + Stamina Potion = Eld(2) x3
+Lum(17) x3 + Antidote Potion = Ko(18) x3
+Lum(17) x3 + Thawing Potion = Fal(19) x3
+
+Perfect Amethyst x1 + Scroll of Town Portal = Ko(18) x1
+Ko(18) x1 + Scroll of Town Portal = Perfect Amethyst x1
+Ko(18) x3 + Stamina Potion = Eld(2) x3
+Ko(18) x3 + Antidote Potion = Lum(17) x3
+Ko(18) x3 + Thawing Potion = Fal(19) x3
+
+Perfect Amethyst x1 + Scroll of Identify = Fal(19) x1
+Fal(19) x1 + Scroll of Identify = Perfect Amethyst x1
+Fal(19) x3 + Stamina Potion = Eld(2) x3
+Fal(19) x3 + Antidote Potion = Lum(17) x3
+Fal(19) x3 + Thawing Potion = Ko(18) x3
+
+Perfect Amethyst x2 + Thawing Potion = Lem(20) x1
+Eld(2) x2 + Thawing Potion = Lem(20) x1
+Lum(17) x2 + Thawing Potion = Lem(20) x1
+Ko(18) x2 + Thawing Potion = Lem(20) x1
+Fal(19) x2 + Thawing Potion = Lem(20) x1
+Lem(20) x1 + Thawing Potion = Perfect Amethyst x2
+
+Perfect Amethyst x3 + Rejuvenation Potion = Pul(21) x1
+Lem(20) x1 + Eld(2) x1 + Rejuvenation Potion = Pul(21) x1
+Lem(20) x1 + Lum(17) x1 + Rejuvenation Potion = Pul(21) x1
+Lem(20) x1 + Ko(18) x1 + Rejuvenation Potion = Pul(21) x1
+Lem(20) x1 + Fal(19) x1 + Rejuvenation Potion = Pul(21) x1
+Pul(21) x1 + Rejuvenation Potion = Perfect Amethyst x3
+
+Perfect Amethyst x4 + Rejuvenation Potion = Um(22) x1
+Lem(20) x2 + Rejuvenation Potion = Um(22) x1
+Um(22) x1 + Rejuvenation Potion = Lem(20) x2
+
+Perfect Amethyst x5 + Rejuvenation Potion = Mal(23) x1
+Pul(21) x1 + Lem(20) x1 + Rejuvenation Potion = Mal(23) x1
+Mal(23) x1 + Rejuvenation Potion = Pul(21) x1 & Lem(20) x1
+
+Perfect Amethyst x8 + Full Rejuvenation Potion = Ist(24) x1
+Lem(20) x4 + Full Rejuvenation Potion = Ist(24) x1
+Um(22) x2 + Full Rejuvenation Potion = Ist(24) x1
+Ist(24) x1 + Full Rejuvenation Potion = Um(22) x2
+
+Ist(24) x1 + Mal(23) x1 + Full Rejuvenation Potion = Gul(25) x1
+Gul(25) x1 + Full Rejuvenation Potion = Ist(24) x1 & Mal(23) x1
+
+Ist(24) x2 + Full Rejuvenation Potion = Vex(26) x1
+Vex(26) x1 + Full Rejuvenation Potion = Ist(24) x2
+
+Vex(26) x2 + Ist(24) x1 + Full Rejuvenation Potion = Ohm(27) x1
+Ohm(27) x1 + Full Rejuvenation Potion = Vex(26) x2 & Ist(24) x1
+
+Ohm(27) x1 + Vex(26) x1 + Full Rejuvenation Potion = Lo(28) x1
+Lo(28) x1 + Full Rejuvenation Potion = Ohm(27) x1 & Vex(26) x1
+
+Lo(28) x1 + Ohm(27) x1 + Full Rejuvenation Potion = Sur(29) x1
+Sur(29) x1 + Full Rejuvenation Potion = Lo(28) x1 & Ohm(27) x1
+
+Sur(29) x1 + Lo(28) x2 + Full Rejuvenation Potion = Ber(30) x1
+Ber(30) x1 + Full Rejuvenation Potion = Sur(29) x1 & Lo(28) x2
+
+Lo(28) x3 + Full Rejuvenation Potion = Jah(31) x1
+Jah(31) x1 + Full Rejuvenation Potion = Lo(28) x3
+
+Ist(24) x3 + Full Rejuvenation Potion = Cham(32) x1
+Cham(32) x1 + Full Rejuvenation Potion = Ist(24) x3
+
+Vex(26) x3 + Full Rejuvenation Potion = Zod(33) x1
+Zod(33) x1 + Full Rejuvenation Potion = Vex(26) x3
+
+
+
+
+
+Unique Equipment Trading Recipes
+
+Daggers
+
+Dagger + Perfect Amethyst x1 + Scroll of Town Portal = Gull
+Gull + Scroll of Town Portal = Ral(8) x1
+
+Dirk + Ral(8) x1 + Scroll of Town Portal = The Diggler
+The Diggler + Scroll of Town Portal = Shael(13) x1
+
+Kris + Amn(11) x1 + Scroll of Town Portal = The Jade Tan Do
+The Jade Tan Do + Scroll of Town Portal = Ort(9) x1
+
+Blade + Perfect Amethyst x1 + Scroll of Town Portal = Spectral Shard
+Spectral Shard + Scroll of Town Portal = Ral(8) x1
+
+Poignard + Lem(20) x1 + Scroll of Town Portal = Spineripper
+Spineripper + Scroll of Town Portal = Ral(8) x1
+
+Rondel + Lem(20) x1 + Scroll of Town Portal = Heart Carver
+Heart Carver + Scroll of Town Portal = Ral(8) x1
+
+Cinquedeas + Lem(20) x1 + Scroll of Town Portal = Blackbog's Sharp
+Blackbog's Sharp + Scroll of Town Portal = Ral(8) x1
+
+Stiletto + Tal(7) x1 + Scroll of Town Portal = Stormspike
+Stormspike + Scroll of Town Portal = Ort(9) x1
+
+Bone Knife + Um(22) x1 + Scroll of Town Portal = Wizardspike
+Wizardspike + Scroll of Town Portal = Perfect Amethyst x1
+
+Fanged Knife + Um(22) x1 + Scroll of Town Portal = Fleshripper
+Fleshripper + Scroll of Town Portal = Perfect Amethyst x1
+
+Legend Spike + Tal(7) x1 + Scroll of Town Portal = Ghostflame
+Ghostflame + Scroll of Town Portal = Ort(9) x1
+
+Throwing Daggers
+
+Battle Dart + Um(22) x1 + Scroll of Town Portal = Deathbit
+Deathbit + Scroll of Town Portal = Perfect Amethyst x1
+
+Winged Knife + Ist(24) x1 + Scroll of Town Portal = Warshrike
+Warshrike + Scroll of Town Portal = Lem(20) x1
+
+One-handed Swords
+
+Short Sword + Lem(20) x1 + Scroll of Town Portal = Rixot's Keen
+Rixot's Keen + Scroll of Town Portal = Perfect Amethyst x1
+
+Scimitar + Shael(13) x1 + Scroll of Town Portal = Blood Crescent
+Blood Crescent + Scroll of Town Portal = Eth(5) x1
+
+Sabre + Amn(11) x1 + Scroll of Town Portal = Skewer of Krintiz
+Skewer of Krintiz + Scroll of Town Portal = Ort(9) x1
+
+Falchion + Amn(11) x1 + Scroll of Town Portal = Gleamscythe
+Gleamscythe + Scroll of Town Portal = Ort(9) x1
+
+Broad Sword + Amn(11) x1 + Scroll of Town Portal = Griswold's Edge
+Griswold's Edge + Scroll of Town Portal = Ort(9) x1
+
+Long Sword + Perfect Amethyst x1 + Scroll of Town Portal = Hellplague
+Hellplague + Scroll of Town Portal = Ral(8) x1
+
+War Sword + Amn(11) x1 + Scroll of Town Portal = Culwen's Point
+Culwen's Point + Scroll of Town Portal = Ort(9) x1
+
+Gladius + Lem(20) x1 + Scroll of Town Portal = Bloodletter
+Bloodletter + Scroll of Town Portal = Ral(8) x1
+
+Cutlass + Lem(20) x1 + Scroll of Town Portal = Coldsteel Eye
+Coldsteel Eye + Scroll of Town Portal = Ral(8) x1
+
+Shamshir + Lem(20) x1 + Scroll of Town Portal = Hexfire
+Hexfire + Scroll of Town Portal = Ral(8) x1
+
+Tulwar + Mal(23) x1 + Scroll of Town Portal = Blade of Ali Baba
+Blade of Ali Baba + Scroll of Town Portal = Lum(17) x1 & Shael(13) x1
+
+Dimensional Blade + Lem(20) x1 + Scroll of Town Portal = Ginther's Rift
+Ginther's Rift + Scroll of Town Portal = Ral(8) x1
+
+Battle Sword + Um(22) x1 + Scroll of Town Portal = Headstriker
+Headstriker + Scroll of Town Portal = Perfect Amethyst x1
+
+Rune Sword + Lem(20) x1 + Scroll of Town Portal = Plague Bearer
+Plague Bearer + Scroll of Town Portal = Ral(8) x1
+
+Ancient Sword + Pul(21) x1 + Scroll of Town Portal = The Atlantean
+The Atlantean + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Ataghan + Um(22) x1 + Scroll of Town Portal = Djinn Slayer
+Djinn Slayer + Scroll of Town Portal = Perfect Amethyst x1
+
+Elegant Blade + Lem(20) x1 + Scroll of Town Portal = Bloodmoon
+Bloodmoon + Scroll of Town Portal = Ral(8) x1
+
+Phase Blade + Mal(23) x1 + Scroll of Town Portal = Lightsabre
+Lightsabre + Scroll of Town Portal = Lum(17) x1 & Shael(13) x1
+
+Phase Blade + Gul(25) x1 + Scroll of Town Portal = Azurewrath
+Azurewrath + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Cryptic Sword + Lem(20) x1 + Scroll of Town Portal = Frostwind
+Frostwind + Scroll of Town Portal = Ral(8) x1
+
+Two-handed Swords
+
+Two-handed Sword + Ral(8) x1 + Scroll of Town Portal = Shadowfang
+Shadowfang + Scroll of Town Portal = Shael(13) x1
+
+Claymore + Shael(13) x1 + Scroll of Town Portal = Soulflay
+Soulflay + Scroll of Town Portal = Eth(5) x1
+
+Giant Sword + Ral(8) x1 + Scroll of Town Portal = Kinemil's Awl
+Kinemil's Awl + Scroll of Town Portal = Shael(13) x1
+
+Bastard Sword + Amn(11) x1 + Scroll of Town Portal = Blacktongue
+Blacktongue + Scroll of Town Portal = Ort(9) x1
+
+Flamberge + Amn(11) x1 + Scroll of Town Portal = Ripsaw
+Ripsaw + Scroll of Town Portal = Ort(9) x1
+
+Great Sword + Perfect Amethyst x1 + Scroll of Town Portal = The Patriarch
+The Patriarch + Scroll of Town Portal = Ral(8) x1
+
+Espandon + Lem(20) x1 + Scroll of Town Portal = Crainte Vomir
+Crainte Vomir + Scroll of Town Portal = Ral(8) x1
+
+Dacian Falx + Hel(15) x1 + Scroll of Town Portal = Bing Sz Wang
+Bing Sz Wang + Scroll of Town Portal = Amn(11) x1
+
+Tusk Sword + Perfect Amethyst x1 + Scroll of Town Portal = The Vile Husk
+The Vile Husk + Scroll of Town Portal = Shael(13) x1
+
+Gothic Sword + Tal(7) x1 + Scroll of Town Portal = Cloudcrack
+Cloudcrack + Scroll of Town Portal = Ort(9) x1
+
+Zweihander + Pul(21) x1 + Scroll of Town Portal = Todesfaelle Flamme
+Todesfaelle Flamme + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Executioner Sword + Um(22) x1 + Scroll of Town Portal = Swordguard
+Swordguard + Scroll of Town Portal = Perfect Amethyst x1
+
+Balrog Blade + Pul(21) x1 + Scroll of Town Portal = Flamebellow
+Flamebellow + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Champion Sword + Pul(21) x2 + Scroll of Town Portal = Doombringer
+Doombringer + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Colossus Blade + Ist(24) x1 + Scroll of Town Portal = The Grandfather
+The Grandfather + Scroll of Town Portal = Lem(20) x1
+
+One-handed Axes
+
+Hand Axe + Shael(13) x1 + Scroll of Town Portal = The Gnasher
+The Gnasher + Scroll of Town Portal = Eth(5) x1
+
+※ Deathspade purchase has been deactivated due to a bug
+Deathspade + Scroll of Town Portal = Ort(9) x1
+
+Double Axe + Amn(11) x1 + Scroll of Town Portal = Bladebone
+Bladebone + Scroll of Town Portal = Ort(9) x1
+
+Military Pick + Amn(11) x1 + Scroll of Town Portal = Skull Splitter
+Skull Splitter + Scroll of Town Portal = Ort(9) x1
+
+War Axe + Ral(8) x1 + Scroll of Town Portal = Rakescar
+Rakescar + Scroll of Town Portal = Shael(13) x1
+
+Hatchet + Tal(7) x1 + Scroll of Town Portal = Coldkill
+Coldkill + Scroll of Town Portal = Ort(9) x1
+
+Cleaver + Lem(20) x1 + Scroll of Town Portal = Butcher's Pupil
+Butcher's Pupil + Scroll of Town Portal = Ral(8) x1
+
+Twin Axe + Tal(7) x1 + Scroll of Town Portal = Islander
+Islander + Scroll of Town Portal = Ort(9) x1
+
+Crowbill + Tal(7) x1 + Scroll of Town Portal = Pompeii's Wrath
+Pompeii's Wrath + Scroll of Town Portal = Ort(9) x1
+
+Naga + Tal(7) x1 + Scroll of Town Portal = Guardian Naga
+Guardian Naga + Scroll of Town Portal = Ort(9) x1
+
+Tomahawk + Lem(20) x1 + Scroll of Town Portal = Razor's Edge
+Razor's Edge + Scroll of Town Portal = Ral(8) x1
+
+Ettin Axe + Mal(23) x1 + Scroll of Town Portal = Rune Master
+Rune Master + Scroll of Town Portal = Lum(17) x1 & Shael(13) x1
+
+War Spike + Lem(20) x1 + Scroll of Town Portal = Cranebeak
+Cranebeak + Scroll of Town Portal = Ral(8) x1
+
+Berserker Axe + Mal(23) x2 + Scroll of Town Portal = Death Cleaver
+Death Cleaver + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Two-handed Axes
+
+Large Axe + Amn(11) x1 + Scroll of Town Portal = Axe of Fechmar
+Axe of Fechmar + Scroll of Town Portal = Ort(9) x1
+
+Broad Axe + Amn(11) x1 + Scroll of Town Portal = Goreshovel
+Goreshovel + Scroll of Town Portal = Ort(9) x1
+
+Battle Axe + Lem(20) x1 + Scroll of Town Portal = The Chieftain
+The Chieftain + Scroll of Town Portal = Perfect Amethyst x1
+
+Great Axe + Amn(11) x1 + Scroll of Town Portal = Brainhew
+Brainhew + Scroll of Town Portal = Ort(9) x1
+
+Giant Axe + Amn(11) x1 + Scroll of Town Portal = Humongous
+Humongous + Scroll of Town Portal = Ort(9) x1
+
+Military Axe + Tal(7) x1 + Scroll of Town Portal = Warlord's Trust
+Warlord's Trust + Scroll of Town Portal = Ort(9) x1
+
+Bearded Axe + Lem(20) x1 + Scroll of Town Portal = Spellsteel
+Spellsteel + Scroll of Town Portal = Ral(8) x1
+
+Tabar + Tal(7) x1 + Scroll of Town Portal = Stormrider
+Stormrider + Scroll of Town Portal = Ort(9) x1
+
+Gothic Axe + Tal(7) x1 + Scroll of Town Portal = Boneslayer Blade
+Boneslayer Blade + Scroll of Town Portal = Ort(9) x1
+
+Ancient Axe + Tal(7) x1 + Scroll of Town Portal = The Minotaur
+The Minotaur + Scroll of Town Portal = Ort(9) x1
+
+Silver-edged Axe + Lem(20) x1 + Scroll of Town Portal = Ethereal Edge
+Ethereal Edge + Scroll of Town Portal = Ral(8) x1
+
+Decapitator + Lem(20) x1 + Scroll of Town Portal = Hellslayer
+Hellslayer + Scroll of Town Portal = Ral(8) x1
+
+Champion Axe + Um(22) x1 + Scroll of Town Portal = Messerschmidt's Reaver
+Messerschmidt's Reaver + Scroll of Town Portal = Perfect Amethyst x1
+
+Glorious Axe + Vex(26) x1 + Scroll of Town Portal = Executioner's Justice
+Executioner's Justice + Scroll of Town Portal = Um(22) x1
+
+Throwing Axes
+
+Francisca + Lem(20) x1 + Scroll of Town Portal = The Scalper
+The Scalper + Scroll of Town Portal = Ral(8) x1
+
+Flying Axe + Pul(21) x2 + Scroll of Town Portal = Gimmershred
+Gimmershred + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Winged Axe + Ist(24) x1 + Scroll of Town Portal = Lacerator
+Lacerator + Scroll of Town Portal = Lem(20) x1
+
+Polearms
+
+Bardiche + Amn(11) x1 + Scroll of Town Portal = Dimoak's Hew
+Dimoak's Hew + Scroll of Town Portal = Ort(9) x1
+
+Voulge + Amn(11) x1 + Scroll of Town Portal = Steelgoad
+Steelgoad + Scroll of Town Portal = Ort(9) x1
+
+Scythe + Amn(11) x1 + Scroll of Town Portal = Soul Harvest
+Soul Harvest + Scroll of Town Portal = Ort(9) x1
+
+Poleaxe + Amn(11) x1 + Scroll of Town Portal = The Battlebranch
+The Battlebranch + Scroll of Town Portal = Ort(9) x1
+
+Halberd + Perfect Amethyst x1 + Scroll of Town Portal = Woestave
+Woestave + Scroll of Town Portal = Ral(8) x1
+
+War Scythe + Ral(8) x1 + Scroll of Town Portal = The Grim Reaper
+The Grim Reaper + Scroll of Town Portal = Shael(13) x1
+
+Lochaber Axe + Lem(20) x1 + Scroll of Town Portal = The Meat Scraper
+The Meat Scraper + Scroll of Town Portal = Ral(8) x1
+
+Bill + Tal(7) x1 + Scroll of Town Portal = Blackleach Blade
+Blackleach Blade + Scroll of Town Portal = Ort(9) x1
+
+Battle Scythe + Tal(7) x1 + Scroll of Town Portal = Athena's Wrath
+Athena's Wrath + Scroll of Town Portal = Ort(9) x1
+
+Partizan + Lem(20) x1 + Scroll of Town Portal = Pierre Tombale Couant
+Pierre Tombale Couant + Scroll of Town Portal = Ral(8) x1
+
+Bec-de-Corbin + Ral(8) x1 + Scroll of Town Portal = Husoldal Evo
+Husoldal Evo + Scroll of Town Portal = Eth(5) x1
+
+Grim Scythe + Tal(7) x1 + Scroll of Town Portal = Grim's Burning Dead
+Grim's Burning Dead + Scroll of Town Portal = Ort(9) x1
+
+Ogre Axe + Lem(20) x1 + Scroll of Town Portal = Bonehew
+Bonehew + Scroll of Town Portal = Ral(8) x1
+
+Thresher + Gul(25) x1 + Scroll of Town Portal = The Reaper's Toll
+The Reaper's Toll + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Cryptic Axe + Ist(24) x1 + Scroll of Town Portal = Tomb Reaver
+Tomb Reaver + Scroll of Town Portal = Lem(20) x1
+
+Giant Thresher + Tal(7) x1 + Scroll of Town Portal = Stormspire
+Stormspire + Scroll of Town Portal = Ort(9) x1
+
+Claws
+
+Greater Talons + Um(22) x1 + Scroll of Town Portal = Bartuc's Cut-Throat
+Bartuc's Cut-Throat + Scroll of Town Portal = Perfect Amethyst x1
+
+Wrist Sword + Lem(20) x1 + Scroll of Town Portal = Jade Talon
+Jade Talon + Scroll of Town Portal = Ral(8) x1
+
+Battle Cestus + Lem(20) x1 + Scroll of Town Portal = Shadow Killer
+Shadow Killer + Scroll of Town Portal = Ral(8) x1
+
+Feral Claws + Um(22) x1 + Scroll of Town Portal = Firelizard's Talons
+Firelizard's Talons + Scroll of Town Portal = Perfect Amethyst x1
+
+Crossbows
+
+Light Crossbow + Perfect Amethyst x1 + Scroll of Town Portal = Leadcrow
+Leadcrow + Scroll of Town Portal = Ral(8) x1
+
+Crossbow + Shael(13) x1 + Scroll of Town Portal = Ichorsting
+Ichorsting + Scroll of Town Portal = Eth(5) x1
+
+Heavy Crossbow + Amn(11) x1 + Scroll of Town Portal = Hellcast
+Hellcast + Scroll of Town Portal = Ort(9) x1
+
+Repeating Crossbow + Amn(11) x1 + Scroll of Town Portal = Doomslinger
+Doomslinger + Scroll of Town Portal = Ort(9) x1
+
+Arbalest + Tal(7) x1 + Scroll of Town Portal = Langer Briser
+Langer Briser + Scroll of Town Portal = Ort(9) x1
+
+Siege Crossbow + Tal(7) x1 + Scroll of Town Portal = Pus Spitter
+Pus Spitter + Scroll of Town Portal = Ort(9) x1
+
+Ballista + Lem(20) x1 + Scroll of Town Portal = Buriza-Do Kyanon
+Buriza-Do Kyanon + Scroll of Town Portal = Ral(8) x1
+
+Chu-Ko-Nu + Lem(20) x1 + Scroll of Town Portal = Demon Machine
+Demon Machine + Scroll of Town Portal = Ral(8) x1
+
+Colossus Crossbow + Lem(20) x1 + Scroll of Town Portal = Hellrack
+Hellrack + Scroll of Town Portal = Ral(8) x1
+
+Demon Crossbow + Tal(7) x1 + Scroll of Town Portal = Gut Siphon
+Gut Siphon + Scroll of Town Portal = Ort(9) x1
+
+Staves
+
+Short Staff + Amn(11) x1 + Scroll of Town Portal = Bane Ash
+Bane Ash + Scroll of Town Portal = Ort(9) x1
+
+Long Staff + Amn(11) x1 + Scroll of Town Portal = Serpent Lord
+Serpent Lord + Scroll of Town Portal = Ort(9) x1
+
+Gnarled Staff + Amn(11) x1 + Scroll of Town Portal = Spire of Lazarus
+Spire of Lazarus + Scroll of Town Portal = Ort(9) x1
+
+Battle Staff + Amn(11) x1 + Scroll of Town Portal = The Salamander
+The Salamander + Scroll of Town Portal = Ort(9) x1
+
+War Staff + Amn(11) x1 + Scroll of Town Portal = The Iron Jang Bong
+The Iron Jang Bong + Scroll of Town Portal = Ort(9) x1
+
+Jo Staff + Perfect Amethyst x1 + Scroll of Town Portal = Razorswitch
+Razorswitch + Scroll of Town Portal = Shael(13) x1
+
+Quarterstaff + Um(22) x1 + Scroll of Town Portal = Ribcracker
+Ribcracker + Scroll of Town Portal = Perfect Amethyst x1
+
+Cedar Staff + Hel(15) x1 + Scroll of Town Portal = Chromatic Ire
+Chromatic Ire + Scroll of Town Portal = Amn(11) x1
+
+Gothic Staff + Lem(20) x1 + Scroll of Town Portal = Warpspear
+Warpspear + Scroll of Town Portal = Ral(8) x1
+
+Rune Staff + Tal(7) x1 + Scroll of Town Portal = Skull Collector
+Skull Collector + Scroll of Town Portal = Ort(9) x1
+
+Elder Staff + Vex(26) x1 + Scroll of Town Portal = Ondal's Wisdom
+Ondal's Wisdom + Scroll of Town Portal = Um(22) x1
+
+Archon Staff + Gul(25) x1 + Scroll of Town Portal = Mang Song's Lesson
+Mang Song's Lesson + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Wands
+
+Wand + Perfect Amethyst x1 + Scroll of Town Portal = Torch of Iro
+Torch of Iro + Scroll of Town Portal = Ral(8) x1
+
+Yew Wand + Lem(20) x1 + Scroll of Town Portal = Maelstrom
+Maelstrom + Scroll of Town Portal = Perfect Amethyst x1
+
+Bone Wand + Ral(8) x1 + Scroll of Town Portal = Gravenspine
+Gravenspine + Scroll of Town Portal = Shael(13) x1
+
+Grim Wand + Perfect Amethyst x1 + Scroll of Town Portal = Ume's Lament
+Ume's Lament + Scroll of Town Portal = Ral(8) x1
+
+Burnt Wand + Pul(21) x2 + Scroll of Town Portal = Suicide Branch
+Suicide Branch + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Petrified Wand + Lem(20) x1 + Scroll of Town Portal = Carin Shard
+Carin Shard + Scroll of Town Portal = Ral(8) x1
+
+Tomb Wand + Um(22) x1 + Scroll of Town Portal = Arm of King Leoric
+Arm of King Leoric + Scroll of Town Portal = Perfect Amethyst x1
+
+Grave Wand + Hel(15) x1 + Scroll of Town Portal = Blackhand Key
+Blackhand Key + Scroll of Town Portal = Amn(11) x1
+
+Lich Wand + Vex(26) x1 + Scroll of Town Portal = Boneshade
+Boneshade + Scroll of Town Portal = Um(22) x1
+
+Unearthed Wand + Ohm(27) x1 + Scroll of Town Portal = Death's Web
+Death's Web + Scroll of Town Portal = Mal(23) x2
+
+Orbs
+
+Swirling Crystal + Gul(25) x1 + Scroll of Town Portal = The Oculus
+The Oculus + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Eldrich Orb + Vex(26) x1 + Scroll of Town Portal = Eschuta's Temper
+Eschuta's Temper + Scroll of Town Portal = Um(22) x1
+
+Dimensional Shard + Ohm(27) x1 + Scroll of Town Portal = Death's Fathom
+Death's Fathom + Scroll of Town Portal = Mal(23) x2
+
+Spears
+
+Spear + Amn(11) x1 + Scroll of Town Portal = The Dragon Chang
+The Dragon Chang + Scroll of Town Portal = Ort(9) x1
+
+Trident + Perfect Amethyst x1 + Scroll of Town Portal = Razortine
+Razortine + Scroll of Town Portal = Ral(8) x1
+
+Brandistock + Amn(11) x1 + Scroll of Town Portal = Bloodthief
+Bloodthief + Scroll of Town Portal = Ort(9) x1
+
+Spetum + Amn(11) x1 + Scroll of Town Portal = Lance of Yaggai
+Lance of Yaggai + Scroll of Town Portal = Ort(9) x1
+
+Pike + Perfect Amethyst x1 + Scroll of Town Portal = The Tannr Gorerod
+The Tannr Gorerod + Scroll of Town Portal = Ral(8) x1
+
+War Spear + Perfect Amethyst x1 + Scroll of Town Portal = The Impaler
+The Impaler + Scroll of Town Portal = Shael(13) x1
+
+Fuscina + Um(22) x1 + Scroll of Town Portal = Kelpie Snare
+Kelpie Snare + Scroll of Town Portal = Perfect Amethyst x1
+
+War Fork + Perfect Amethyst x1 + Scroll of Town Portal = Soulfeast Tine
+Soulfeast Tine + Scroll of Town Portal = Shael(13) x1
+
+Yari + Lem(20) x1 + Scroll of Town Portal = Hone Sundan
+Hone Sundan + Scroll of Town Portal = Ral(8) x1
+
+Lance + Tal(7) x1 + Scroll of Town Portal = Spire of Honor
+Spire of Honor + Scroll of Town Portal = Ort(9) x1
+
+Hyperion Spear + Pul(21) x2 + Scroll of Town Portal = Arioc's Needle
+Arioc's Needle + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Mancatcher + Lem(20) x1 + Scroll of Town Portal = Viperfork
+Viperfork + Scroll of Town Portal = Ral(8) x1
+
+War Pike + Tal(7) x1 + Scroll of Town Portal = Steel Pillar
+Steel Pillar + Scroll of Town Portal = Ort(9) x1
+
+Ceremonial Pike + Pul(21) x2 + Scroll of Town Portal = Lycander's Flank
+Lycander's Flank + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Matriarchal Spear + Vex(26) x1 + Scroll of Town Portal = Stoneraven
+Stoneraven + Scroll of Town Portal = Um(22) x1
+
+Maces/Clubs
+
+Club + Amn(11) x1 + Scroll of Town Portal = Felloak
+Felloak + Scroll of Town Portal = Ort(9) x1
+
+Spiked Club + Perfect Amethyst x1 + Scroll of Town Portal = Stoutnail
+Stoutnail + Scroll of Town Portal = Ral(8) x1
+
+Mace + Perfect Amethyst x1 + Scroll of Town Portal = Crushflange
+Crushflange + Scroll of Town Portal = Ral(8) x1
+
+Morning Star + Perfect Amethyst x1 + Scroll of Town Portal = Bloodrise
+Bloodrise + Scroll of Town Portal = Ral(8) x1
+
+Flail + Perfect Amethyst x1 + Scroll of Town Portal = The General's Tan Do Li Ga
+The General's Tan Do Li Ga + Scroll of Town Portal = Ral(8) x1
+
+War Hammer + Amn(11) x1 + Scroll of Town Portal = Ironstone
+Ironstone + Scroll of Town Portal = Ort(9) x1
+
+Maul + Perfect Amethyst x1 + Scroll of Town Portal = Bonesnap
+Bonesnap + Scroll of Town Portal = Ral(8) x1
+
+Great Maul + Perfect Amethyst x1 + Scroll of Town Portal = Steeldriver
+Steeldriver + Scroll of Town Portal = Ral(8) x1
+
+Cudgel + Perfect Amethyst x1 + Scroll of Town Portal = Dark Clan Crusher
+Dark Clan Crusher + Scroll of Town Portal = Shael(13) x1
+
+Barbed Club + Lem(20) x1 + Scroll of Town Portal = Fleshrender
+Fleshrender + Scroll of Town Portal = Ral(8) x1
+
+Flanged Mace + Lem(20) x1 + Scroll of Town Portal = Sureshrill Frost
+Sureshrill Frost + Scroll of Town Portal = Ral(8) x1
+
+Jagged Star + Tal(7) x1 + Scroll of Town Portal = Moonfall
+Moonfall + Scroll of Town Portal = Ort(9) x1
+
+Knout + Perfect Amethyst x1 + Scroll of Town Portal = Baezil's Vortex
+Baezil's Vortex + Scroll of Town Portal = Shael(13) x1
+
+Battle Hammer + Lem(20) x1 + Scroll of Town Portal = Earthshaker
+Earthshaker + Scroll of Town Portal = Ral(8) x1
+
+War Club + Lem(20) x1 + Scroll of Town Portal = Bloodtree Stump
+Bloodtree Stump + Scroll of Town Portal = Ral(8) x1
+
+Martel de Fer + Lem(20) x1 + Scroll of Town Portal = The Gavel of Pain
+The Gavel of Pain + Scroll of Town Portal = Ral(8) x1
+
+Truncheon + Tal(7) x1 + Scroll of Town Portal = Nord's Tenderizer
+Nord's Tenderizer + Scroll of Town Portal = Ort(9) x1
+
+Tyrant Club + Lem(20) x1 + Scroll of Town Portal = Demon Limb
+Demon Limb + Scroll of Town Portal = Ral(8) x1
+
+Devil Star + Lem(20) x1 + Scroll of Town Portal = Baranar's Star
+Baranar's Star + Scroll of Town Portal = Ral(8) x1
+
+Scourge + Pul(21) x1 + Scroll of Town Portal = Horizon's Tornado
+Horizon's Tornado + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Scourge + Vex(26) x1 + Scroll of Town Portal = Stormlash
+Stormlash + Scroll of Town Portal = Um(22) x1
+
+Legendary Mallet + Pul(21) x2 + Scroll of Town Portal = Stone Crusher
+Stone Crusher + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Legendary Mallet + Vex(26) x1 + Scroll of Town Portal = Schaefer's Hammer
+Schaefer's Hammer + Scroll of Town Portal = Um(22) x1
+
+Ogre Maul + Um(22) x1 + Scroll of Town Portal = Windhammer
+Windhammer + Scroll of Town Portal = Perfect Amethyst x1
+
+Thunder Maul + Um(22) x1 + Scroll of Town Portal = Earth Shifter
+Earth Shifter + Scroll of Town Portal = Perfect Amethyst x1
+
+Thunder Maul + Mal(23) x2 + Scroll of Town Portal = The Cranium Basher
+The Cranium Basher + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Scepters
+
+Scepter + Mal(23) x1 + Scroll of Town Portal = Knell Striker
+Knell Striker + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Grand Scepter + Perfect Amethyst x1 + Scroll of Town Portal = Rusthandle
+Rusthandle + Scroll of Town Portal = Ral(8) x1
+
+War Scepter + Perfect Amethyst x1 + Scroll of Town Portal = Stormeye
+Stormeye + Scroll of Town Portal = Ral(8) x1
+
+Rune Scepter + Um(22) x1 + Scroll of Town Portal = Zakarum's Hand
+Zakarum's Hand + Scroll of Town Portal = Perfect Amethyst x1
+
+Holy Water Sprinkler + Lem(20) x1 + Scroll of Town Portal = The Fetid Sprinkler
+The Fetid Sprinkler + Scroll of Town Portal = Ral(8) x1
+
+Divine Scepter + Um(22) x1 + Scroll of Town Portal = Hand of Blessed Light
+Hand of Blessed Light + Scroll of Town Portal = Perfect Amethyst x1
+
+Mighty Scepter + Vex(26) x1 + Scroll of Town Portal = Heaven's Light
+Heaven's Light + Scroll of Town Portal = Um(22) x1
+
+Mighty Scepter + Ist(24) x1 + Scroll of Town Portal = The Redeemer
+The Redeemer + Scroll of Town Portal = Lem(20) x1
+
+Caduceus + Mal(23) x2 + Scroll of Town Portal = Astreon's Iron Ward
+Astreon's Iron Ward + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Javelins
+
+Balrog Spear + Gul(25) x1 + Scroll of Town Portal = Demon's Arch
+Demon's Arch + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Ghost Glaive + Ist(24) x1 + Scroll of Town Portal = Wraith Flight
+Wraith Flight + Scroll of Town Portal = Lem(20) x1
+
+Winged Harpoon + Pul(21) x2 + Scroll of Town Portal = Gargoyle's Bite
+Gargoyle's Bite + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Ceremonial Javelin + Vex(26) x1 + Scroll of Town Portal = Titan's Revenge
+Titan's Revenge + Scroll of Town Portal = Um(22) x1
+
+Matriarchal Javelin + Ohm(27) x1 + Scroll of Town Portal = Thunderstroke
+Thunderstroke + Scroll of Town Portal = Mal(23) x2
+
+Bows
+
+Short Bow + Amn(11) x1 + Scroll of Town Portal = Pluckeye
+Pluckeye + Scroll of Town Portal = Ort(9) x1
+
+Hunter's Bow + Ral(8) x1 + Scroll of Town Portal = Witherstring
+Witherstring + Scroll of Town Portal = Shael(13) x1
+
+Long Bow + Lem(20) x1 + Scroll of Town Portal = Raven Claw
+Raven Claw + Scroll of Town Portal = Perfect Amethyst x1
+
+Composite Bow + Perfect Amethyst x1 + Scroll of Town Portal = Rogue's Bow
+Rogue's Bow + Scroll of Town Portal = Ral(8) x1
+
+Short Battle Bow + Amn(11) x1 + Scroll of Town Portal = Stormstrike
+Stormstrike + Scroll of Town Portal = Ort(9) x1
+
+Long Battle Bow + Perfect Amethyst x1 + Scroll of Town Portal = Wizendraw
+Wizendraw + Scroll of Town Portal = Ral(8) x1
+
+Short War Bow + Amn(11) x1 + Scroll of Town Portal = Hellclap
+Hellclap + Scroll of Town Portal = Ort(9) x1
+
+Long War Bow + Ral(8) x1 + Scroll of Town Portal = Blastbark
+Blastbark + Scroll of Town Portal = Shael(13) x1
+
+Edge Bow + Lem(20) x1 + Scroll of Town Portal = Skystrike
+Skystrike + Scroll of Town Portal = Ral(8) x1
+
+Razor Bow + Lem(20) x1 + Scroll of Town Portal = Riphook
+Riphook + Scroll of Town Portal = Ral(8) x1
+
+Cedar Bow + Lem(20) x1 + Scroll of Town Portal = Kuko Shakaku
+Kuko Shakaku + Scroll of Town Portal = Ral(8) x1
+
+Double Bow + Perfect Amethyst x1 + Scroll of Town Portal = Endlesshail
+Endlesshail + Scroll of Town Portal = Shael(13) x1
+
+Short Siege Bow + Um(22) x1 + Scroll of Town Portal = Witchwild String
+Witchwild String + Scroll of Town Portal = Perfect Amethyst x1
+
+Large Siege Bow + Tal(7) x1 + Scroll of Town Portal = Cliffkiller
+Cliffkiller + Scroll of Town Portal = Ort(9) x1
+
+Rune Bow + Perfect Amethyst x1 + Scroll of Town Portal = Magewrath
+Magewrath + Scroll of Town Portal = Shael(13) x1
+
+Gothic Bow + Um(22) x1 + Scroll of Town Portal = Goldstrike Arch
+Goldstrike Arch + Scroll of Town Portal = Perfect Amethyst x1
+
+Crusader Bow + Lem(20) x1 + Scroll of Town Portal = Eaglehorn
+Eaglehorn + Scroll of Town Portal = Ral(8) x1
+
+Ward Bow + Um(22) x1 + Scroll of Town Portal = Widowmaker
+Widowmaker + Scroll of Town Portal = Perfect Amethyst x1
+
+Hydra Bow + Vex(26) x1 + Scroll of Town Portal = Windforce
+Windforce + Scroll of Town Portal = Um(22) x1
+
+Ceremonial Bow + Lem(20) x1 + Scroll of Town Portal = Lycander's Aim
+Lycander's Aim + Scroll of Town Portal = Ral(8) x1
+
+Matriarchal Bow + Lem(20) x1 + Scroll of Town Portal = Blood Raven's Charge
+Blood Raven's Charge + Scroll of Town Portal = Ral(8) x1
+
+Helmets
+
+Cap + Lem(20) x1 + Scroll of Town Portal = Biggin's Bonnet
+Biggin's Bonnet + Scroll of Town Portal = Perfect Amethyst x1
+
+Skull Cap + Lem(20) x1 + Scroll of Town Portal = Tarnhelm
+Tarnhelm + Scroll of Town Portal = Perfect Amethyst x1
+
+Helm + Amn(11) x1 + Scroll of Town Portal = Coif of Glory
+Coif of Glory + Scroll of Town Portal = Ort(9) x1
+
+Full Helm + Perfect Amethyst x1 + Scroll of Town Portal = Duskdeep
+Duskdeep + Scroll of Town Portal = Ral(8) x1
+
+Bone Helm + Ral(8) x1 + Scroll of Town Portal = Wormskull
+Wormskull + Scroll of Town Portal = Shael(13) x1
+
+Mask + Perfect Amethyst x1 + Scroll of Town Portal = The Face of Horror
+The Face of Horror + Scroll of Town Portal = Ral(8) x1
+
+Great Helm + Ral(8) x1 + Scroll of Town Portal = Howltusk
+Howltusk + Scroll of Town Portal = Shael(13) x1
+
+Crown + Perfect Amethyst x1 + Scroll of Town Portal = Undead Crown
+Undead Crown + Scroll of Town Portal = Ral(8) x1
+
+War Hat + Lem(20) x1 + Scroll of Town Portal = Peasant Crown
+Peasant Crown + Scroll of Town Portal = Ral(8) x1
+
+Sallet + Pul(21) x1 + Scroll of Town Portal = Rockstopper
+Rockstopper + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Casque + Um(22) x1 + Scroll of Town Portal = Stealskull
+Stealskull + Scroll of Town Portal = Perfect Amethyst x1
+
+Basinet + Lem(20) x1 + Scroll of Town Portal = Darksight Helm
+Darksight Helm + Scroll of Town Portal = Ral(8) x1
+
+Grim Helm + Gul(25) x1 + Scroll of Town Portal = Vampire Gaze
+Vampire Gaze + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Death Mask + Pul(21) x1 + Scroll of Town Portal = Blackhorn's Face
+Blackhorn's Face + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Winged Helm + Ist(24) x1 + Scroll of Town Portal = Valkyrie Wing
+Valkyrie Wing + Scroll of Town Portal = Lem(20) x1
+
+Grand Crown + Um(22) x1 + Scroll of Town Portal = Crown of Thieves
+Crown of Thieves + Scroll of Town Portal = Perfect Amethyst x1
+
+Shako + Vex(26) x1 + Scroll of Town Portal = Harlequin Crest
+Harlequin Crest + Scroll of Town Portal = Um(22) x1
+
+Armet + Ist(24) x1 + Scroll of Town Portal = Steel Shade
+Steel Shade + Scroll of Town Portal = Lem(20) x1
+
+Bone Visage + Vex(26) x1 + Scroll of Town Portal = Giant Skull
+Giant Skull + Scroll of Town Portal = Um(22) x1
+
+Demonhead + Vex(26) x2 + Scroll of Town Portal = Andariel's Visage
+Andariel's Visage + Scroll of Town Portal = Ist(24) x1
+
+Spired Helm + Vex(26) x1 + Scroll of Town Portal = Nightwing's Veil
+Nightwing's Veil + Scroll of Town Portal = Um(22) x1
+
+Spired Helm + Lem(20) x1 + Scroll of Town Portal = Veil of Steel
+Veil of Steel + Scroll of Town Portal = Ral(8) x1
+
+Corona + Sur(29) x1 + Scroll of Town Portal = Crown of Ages
+Crown of Ages + Scroll of Town Portal = Cham(32) x1
+
+Tiara + Vex(26) x1 + Scroll of Town Portal = Kira's Guardian
+Kira's Guardian + Scroll of Town Portal = Um(22) x1
+
+Diadem + Jah(31) x1 + Scroll of Town Portal = Griffon's Eye
+Griffon's Eye + Scroll of Town Portal = Ohm(27) x1 & Lem(20) x1
+
+Slayer Guard + Vex(26) x1 + Scroll of Town Portal = Arreat's Face
+Arreat's Face + Scroll of Town Portal = Um(22) x1
+
+Fury Visor + Ist(24) x1 + Scroll of Town Portal = Wolfhowl
+Wolfhowl + Scroll of Town Portal = Lem(20) x1
+
+Destroyer Helm + Um(22) x1 + Scroll of Town Portal = Demonhorn's Edge
+Demonhorn's Edge + Scroll of Town Portal = Perfect Amethyst x1
+
+Conqueror Crown + Gul(25) x1 + Scroll of Town Portal = Halaberd's Reign
+Halaberd's Reign + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Totemic Mask + Lem(20) x1 + Scroll of Town Portal = Jalal's Mane
+Jalal's Mane + Scroll of Town Portal = Ral(8) x1
+
+Blood Spirit + Ist(24) x1 + Scroll of Town Portal = Cerebus' Bite
+Cerebus' Bite + Scroll of Town Portal = Lem(20) x1
+
+Earth Spirit + Ist(24) x1 + Scroll of Town Portal = Spirit Keeper
+Spirit Keeper + Scroll of Town Portal = Lem(20) x1
+
+Sky Spirit + Gul(25) x1 + Scroll of Town Portal = Ravenlore
+Ravenlore + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Armor
+
+Quilted Armor + Lem(20) x1 + Scroll of Town Portal = Greyform
+Greyform + Scroll of Town Portal = Perfect Amethyst x1
+
+Leather Armor + Lem(20) x1 + Scroll of Town Portal = Blinkbat's Form
+Blinkbat's Form + Scroll of Town Portal = Perfect Amethyst x1
+
+Hard Leather Armor + Perfect Amethyst x1 + Scroll of Town Portal = The Centurion
+The Centurion + Scroll of Town Portal = Ral(8) x1
+
+Studded Leather + Perfect Amethyst x1 + Scroll of Town Portal = Twitchthroe
+Twitchthroe + Scroll of Town Portal = Ral(8) x1
+
+Ring Mail + Perfect Amethyst x1 + Scroll of Town Portal = Darkglow
+Darkglow + Scroll of Town Portal = Ral(8) x1
+
+Scale Mail + Perfect Amethyst x1 + Scroll of Town Portal = Hawkmail
+Hawkmail + Scroll of Town Portal = Ral(8) x1
+
+Chain Mail + Amn(11) x1 + Scroll of Town Portal = Sparking Mail
+Sparking Mail + Scroll of Town Portal = Ort(9) x1
+
+Breast Plate + Shael(13) x1 + Scroll of Town Portal = Venom Ward
+Venom Ward + Scroll of Town Portal = Eth(5) x1
+
+Splint Mail + Ral(8) x1 + Scroll of Town Portal = Iceblink
+Iceblink + Scroll of Town Portal = Shael(13) x1
+
+Plate Mail + Um(22) x1 + Scroll of Town Portal = Boneflesh
+Boneflesh + Scroll of Town Portal = Lem(20) x1
+
+Field Plate + Shael(13) x1 + Scroll of Town Portal = Rockfleece
+Rockfleece + Scroll of Town Portal = Eth(5) x1
+
+Gothic Plate + Perfect Amethyst x1 + Scroll of Town Portal = Rattlecage
+Rattlecage + Scroll of Town Portal = Ral(8) x1
+
+Light Plate + Amn(11) x1 + Scroll of Town Portal = Heavenly Garb
+Heavenly Garb + Scroll of Town Portal = Ort(9) x1
+
+Full Plate Mail + Perfect Amethyst x1 + Scroll of Town Portal = Goldskin
+Goldskin + Scroll of Town Portal = Ral(8) x1
+
+Ancient Armor + Perfect Amethyst x1 + Scroll of Town Portal = Silks of the Victor
+Silks of the Victor + Scroll of Town Portal = Ral(8) x1
+
+Ghost Armor + Lem(20) x1 + Scroll of Town Portal = The Spirit Shroud
+The Spirit Shroud + Scroll of Town Portal = Ral(8) x1
+
+Serpentskin Armor + Vex(26) x1 + Scroll of Town Portal = Skin of the Vipermagi
+Skin of the Vipermagi + Scroll of Town Portal = Um(22) x1
+
+Demonhide Armor + Pul(21) x1 + Scroll of Town Portal = Skin of Flayed One
+Skin of Flayed One + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Trellised Armor + Pul(21) x1 + Scroll of Town Portal = Iron Pelt
+Iron Pelt + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Linked Mail + Ral(8) x1 + Scroll of Town Portal = Spirit Forge
+Spirit Forge + Scroll of Town Portal = Eth(5) x1
+
+Tigulated Mail + Lem(20) x1 + Scroll of Town Portal = Crow Caw
+Crow Caw + Scroll of Town Portal = Ral(8) x1
+
+Mesh Armor + Mal(23) x1 + Scroll of Town Portal = Shaftstop
+Shaftstop + Scroll of Town Portal = Lum(17) x1 & Shael(13) x1
+
+Cuirass + Ist(24) x1 + Scroll of Town Portal = Duriel's Shell
+Duriel's Shell + Scroll of Town Portal = Lem(20) x1
+
+Russet Armor + Pul(21) x2 + Scroll of Town Portal = Skullder's Ire
+Skullder's Ire + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Templar Coat + Um(22) x1 + Scroll of Town Portal = Guardian Angel
+Guardian Angel + Scroll of Town Portal = Perfect Amethyst x1
+
+Sharktooth Armor + Lem(20) x1 + Scroll of Town Portal = Toothrow
+Toothrow + Scroll of Town Portal = Ral(8) x1
+
+Embossed Plate + Lem(20) x1 + Scroll of Town Portal = Atma's Wail
+Atma's Wail + Scroll of Town Portal = Ral(8) x1
+
+Mage Plate + Pul(21) x1 + Scroll of Town Portal = Que-Hegan's Wisdom
+Que-Hegan's Wisdom + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Chaos Armor + Um(22) x1 + Scroll of Town Portal = Black Hades
+Black Hades + Scroll of Town Portal = Perfect Amethyst x1
+
+Ornate Plate + Lem(20) x1 + Scroll of Town Portal = Corpsemourn
+Corpsemourn + Scroll of Town Portal = Ral(8) x1
+
+Dusk Shroud + Vex(26) x2 + Scroll of Town Portal = Ormus' Robes
+Ormus' Robes + Scroll of Town Portal = Ist(24) x1
+
+Wire Fleece + Ist(24) x1 + Scroll of Town Portal = The Gladiator's Bane
+The Gladiator's Bane + Scroll of Town Portal = Lem(20) x1
+
+Balrog Skin + Um(22) x1 + Scroll of Town Portal = Arkaine's Valor
+Arkaine's Valor + Scroll of Town Portal = Perfect Amethyst x1
+
+Kraken Shell + Pul(21) x1 + Scroll of Town Portal = Leviathan
+Leviathan + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Shadow Plate + Ist(24) x1 + Scroll of Town Portal = Steel Carapace
+Steel Carapace + Scroll of Town Portal = Lem(20) x1
+
+Sacred Armor + Ist(24) x1 + Scroll of Town Portal = Templar's Might
+Templar's Might + Scroll of Town Portal = Lem(20) x1
+
+Sacred Armor + Lo(28) x1 + Scroll of Town Portal = Tyrael's Might
+Tyrael's Might + Scroll of Town Portal = Gul(25) x1 & Lum(17) x1
+
+Shields
+
+Buckler + Pul(21) x1 + Scroll of Town Portal = Pelta Lunata
+Pelta Lunata + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Small Shield + Amn(11) x1 + Scroll of Town Portal = Umbral Disk
+Umbral Disk + Scroll of Town Portal = Ort(9) x1
+
+Large Shield + Amn(11) x1 + Scroll of Town Portal = Stormguild
+Stormguild + Scroll of Town Portal = Ort(9) x1
+
+Kite Shield + Perfect Amethyst x1 + Scroll of Town Portal = Steelclash
+Steelclash + Scroll of Town Portal = Ral(8) x1
+
+Spiked Shield + Amn(11) x1 + Scroll of Town Portal = Swordback Hold
+Swordback Hold + Scroll of Town Portal = Ort(9) x1
+
+Tower Shield + Amn(11) x1 + Scroll of Town Portal = Bverrit Keep
+Bverrit Keep + Scroll of Town Portal = Ort(9) x1
+
+Bone Shield + Perfect Amethyst x1 + Scroll of Town Portal = Wall of the Eyeless
+Wall of the Eyeless + Scroll of Town Portal = Ral(8) x1
+
+Gothic Shield + Amn(11) x1 + Scroll of Town Portal = The Ward
+The Ward + Scroll of Town Portal = Ort(9) x1
+
+Defender + Lem(20) x1 + Scroll of Town Portal = Visceratuant
+Visceratuant + Scroll of Town Portal = Ral(8) x1
+
+Round Shield + Lem(20) x1 + Scroll of Town Portal = Moser's Blessed Circle
+Moser's Blessed Circle + Scroll of Town Portal = Ral(8) x1
+
+Scutum + Tal(7) x1 + Scroll of Town Portal = Stormchaser
+Stormchaser + Scroll of Town Portal = Ort(9) x1
+
+Dragon Shield + Lem(20) x1 + Scroll of Town Portal = Tiamat's Rebuke
+Tiamat's Rebuke + Scroll of Town Portal = Ral(8) x1
+
+Barbed Shield + Ral(8) x1 + Scroll of Town Portal = Lance Guard
+Lance Guard + Scroll of Town Portal = Eth(5) x1
+
+Pavise + Pul(21) x1 + Scroll of Town Portal = Gerke's Sanctuary
+Gerke's Sanctuary + Scroll of Town Portal = Ral(8) x1 & Shael(13) x1
+
+Grim Shield + Um(22) x1 + Scroll of Town Portal = Lidless Wall
+Lidless Wall + Scroll of Town Portal = Perfect Amethyst x1
+
+Ancient Shield + Tal(7) x1 + Scroll of Town Portal = Radament's Sphere
+Radament's Sphere + Scroll of Town Portal = Ort(9) x1
+
+Luna + Ist(24) x1 + Scroll of Town Portal = Blackoak Shield
+Blackoak Shield + Scroll of Town Portal = Lem(20) x1
+
+Monarch + Um(22) x1 + Scroll of Town Portal = Stormshield
+Stormshield + Scroll of Town Portal = Perfect Amethyst x1
+
+Blade Barrier + Lem(20) x1 + Scroll of Town Portal = Spike Thorn
+Spike Thorn + Scroll of Town Portal = Ral(8) x1
+
+Aegis + Lem(20) x1 + Scroll of Town Portal = Medusa's Gaze
+Medusa's Gaze + Scroll of Town Portal = Ral(8) x1
+
+Troll Nest + Ist(24) x1 + Scroll of Town Portal = Head Hunter's Glory
+Head Hunter's Glory + Scroll of Town Portal = Lem(20) x1
+
+Ward + Ist(24) x1 + Scroll of Town Portal = Spirit Ward
+Spirit Ward + Scroll of Town Portal = Lem(20) x1
+
+Gilded Shield + Vex(26) x1 + Scroll of Town Portal = Herald of Zakarum
+Herald of Zakarum + Scroll of Town Portal = Um(22) x1
+
+Sacred Rondache + Um(22) x1 + Scroll of Town Portal = Alma Negra
+Alma Negra + Scroll of Town Portal = Perfect Amethyst x1
+
+Zakarum Shield + Ist(24) x1 + Scroll of Town Portal = Dragonscale
+Dragonscale + Scroll of Town Portal = Lem(20) x1
+
+Hierophant Trophy + Um(22) x1 + Scroll of Town Portal = Homunculus
+Homunculus + Scroll of Town Portal = Perfect Amethyst x1
+
+Succubus Skull + Pul(21) x2 + Scroll of Town Portal = Boneflame
+Boneflame + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Bloodlord Skull + Vex(26) x2 + Scroll of Town Portal = Darkforce Spawn
+Darkforce Spawn + Scroll of Town Portal = Ist(24) x1
+
+Gloves
+
+Leather Gloves + Perfect Amethyst x1 + Scroll of Town Portal = The Hand of Broc
+The Hand of Broc + Scroll of Town Portal = Ral(8) x1
+
+Heavy Gloves + Perfect Amethyst x1 + Scroll of Town Portal = Bloodfist
+Bloodfist + Scroll of Town Portal = Ral(8) x1
+
+Chain Gloves + Um(22) x1 + Scroll of Town Portal = Chance Guards
+Chance Guards + Scroll of Town Portal = Lem(20) x1
+
+Light Gauntlets + Um(22) x1 + Scroll of Town Portal = Magefist
+Magefist + Scroll of Town Portal = Lem(20) x1
+
+Gauntlets + Perfect Amethyst x1 + Scroll of Town Portal = Frostburn
+Frostburn + Scroll of Town Portal = Ral(8) x1
+
+Demonhide Gloves + Lem(20) x1 + Scroll of Town Portal = Venom Grip
+Venom Grip + Scroll of Town Portal = Ral(8) x1
+
+Sharkskin Gloves + Hel(15) x2 + Scroll of Town Portal = Gravepalm
+Gravepalm + Scroll of Town Portal = Tal(7) x1
+
+Heavy Bracers + Lem(20) x1 + Scroll of Town Portal = Ghoulhide
+Ghoulhide + Scroll of Town Portal = Ral(8) x1
+
+Battle Gauntlets + Lem(20) x1 + Scroll of Town Portal = Lava Gout
+Lava Gout + Scroll of Town Portal = Ral(8) x1
+
+War Gauntlets + Lem(20) x1 + Scroll of Town Portal = Hellmouth
+Hellmouth + Scroll of Town Portal = Ral(8) x1
+
+Vampirebone Gloves + Vex(26) x1 + Scroll of Town Portal = Dracul's Grasp
+Dracul's Grasp + Scroll of Town Portal = Um(22) x1
+
+Vambraces + Ist(24) x1 + Scroll of Town Portal = Soul Drainer
+Soul Drainer + Scroll of Town Portal = Lem(20) x1
+
+Ogre Gauntlets + Zod(33) x1 + Scroll of Town Portal = Steelrend
+Steelrend + Scroll of Town Portal = Ist(24) x1 & Um(22) x1
+
+Belts
+
+Sash + Perfect Amethyst x1 + Scroll of Town Portal = Lenymo
+Lenymo + Scroll of Town Portal = Ral(8) x1
+
+Light Belt + Perfect Amethyst x1 + Scroll of Town Portal = Snakecord
+Snakecord + Scroll of Town Portal = Ral(8) x1
+
+Belt + Perfect Amethyst x1 + Scroll of Town Portal = Nightsmoke
+Nightsmoke + Scroll of Town Portal = Ral(8) x1
+
+Heavy Belt + Lem(20) x1 + Scroll of Town Portal = Goldwrap
+Goldwrap + Scroll of Town Portal = Perfect Amethyst x1
+
+Plated Belt + Ral(8) x1 + Scroll of Town Portal = Bladebuckle
+Bladebuckle + Scroll of Town Portal = Shael(13) x1
+
+Demonhide Sash + Pul(21) x2 + Scroll of Town Portal = String of Ears
+String of Ears + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Sharkskin Belt + Pul(21) x2 + Scroll of Town Portal = Razortail
+Razortail + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Mesh Belt + Lem(20) x1 + Scroll of Town Portal = Gloom's Trap
+Gloom's Trap + Scroll of Town Portal = Ral(8) x1
+
+Battle Belt + Ist(24) x1 + Scroll of Town Portal = Snowclash
+Snowclash + Scroll of Town Portal = Lem(20) x1
+
+War Belt + Um(22) x1 + Scroll of Town Portal = Thundergod's Vigor
+Thundergod's Vigor + Scroll of Town Portal = Perfect Amethyst x1
+
+Spiderweb Sash + Vex(26) x2 + Scroll of Town Portal = Arachnid Mesh
+Arachnid Mesh + Scroll of Town Portal = Ist(24) x1
+
+Vampirefang Belt + Gul(25) x1 + Scroll of Town Portal = Nosferatu's Coil
+Nosferatu's Coil + Scroll of Town Portal = Pul(21) x1 & Shael(13) x1
+
+Mithril Coil + Vex(26) x1 + Scroll of Town Portal = Verdungo's Hearty Cord
+Verdungo's Hearty Cord + Scroll of Town Portal = Um(22) x1
+
+Boots
+
+Boots + Perfect Amethyst x1 + Scroll of Town Portal = Hotspur
+Hotspur + Scroll of Town Portal = Ral(8) x1
+
+Heavy Boots + Hel(15) x1 + Scroll of Town Portal = Gorefoot
+Gorefoot + Scroll of Town Portal = Tal(7) x1
+
+Chain Boots + Perfect Amethyst x1 + Scroll of Town Portal = Treads of Cthon
+Treads of Cthon + Scroll of Town Portal = Ral(8) x1
+
+Light Plate Boots + Perfect Amethyst x1 + Scroll of Town Portal = Goblin Toe
+Goblin Toe + Scroll of Town Portal = Ral(8) x1
+
+Greaves + Perfect Amethyst x1 + Scroll of Town Portal = Tearhaunch
+Tearhaunch + Scroll of Town Portal = Ral(8) x1
+
+Demonhide Boots + Lem(20) x1 + Scroll of Town Portal = Infernostride
+Infernostride + Scroll of Town Portal = Ral(8) x1
+
+Sharkskin Boots + Um(22) x1 + Scroll of Town Portal = Waterwalk
+Waterwalk + Scroll of Town Portal = Perfect Amethyst x1
+
+Mesh Boots + Um(22) x1 + Scroll of Town Portal = Silkweave
+Silkweave + Scroll of Town Portal = Perfect Amethyst x1
+
+Battle Boots + Vex(26) x2 + Scroll of Town Portal = War Traveler
+War Traveler + Scroll of Town Portal = Ist(24) x1
+
+War Boots + Vex(26) x1 + Scroll of Town Portal = Gore Rider
+Gore Rider + Scroll of Town Portal = Um(22) x1
+
+Scarabshell Boots + Lo(28) x1 + Scroll of Town Portal = Sandstorm Trek
+Sandstorm Trek + Scroll of Town Portal = Gul(25) x1 & Lum(17) x1
+
+Boneweave Boots + Vex(26) x1 + Scroll of Town Portal = Marrowwalk
+Marrowwalk + Scroll of Town Portal = Um(22) x1
+
+Myrmidon Greaves + Vex(26) x2 + Scroll of Town Portal = Shadow Dancer
+Shadow Dancer + Scroll of Town Portal = Ist(24) x1
+
+Rings
+
+Ring + Perfect Amethyst x1 + Scroll of Town Portal = Nagelring
+Nagelring + Scroll of Town Portal = Ral(8) x1
+
+Ring + Hel(15) x1 + Scroll of Town Portal = Manald Heal
+Manald Heal + Scroll of Town Portal = Tal(7) x1
+
+Ring + Lo(28) x1 + Scroll of Town Portal = The Stone of Jordan
+The Stone of Jordan + Scroll of Town Portal = Cham(32) x1 & Um(22) x1
+
+Ring + Lem(20) x1 + Scroll of Town Portal = Dwarf Star
+Dwarf Star + Scroll of Town Portal = Perfect Amethyst x1
+
+Ring + Mal(23) x1 + Scroll of Town Portal = Raven Frost
+Raven Frost + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Ring + Ohm(27) x1 + Scroll of Town Portal = Bul-Kathos' Wedding Band
+Bul-Kathos' Wedding Band + Scroll of Town Portal = Vex(26) x1 & Um(22) x1
+
+Ring + Pul(21) x1 + Scroll of Town Portal = Carrion Wind
+Carrion Wind + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Ring + Um(22) x1 + Scroll of Town Portal = Nature's Peace
+Nature's Peace + Scroll of Town Portal = Lem(20) x1
+
+Ring + Gul(25) x1 + Scroll of Town Portal = Wisp Projector
+Wisp Projector + Scroll of Town Portal = Pul(21) x2 & Ral(8) x1
+
+Amulets
+
+Amulet + Ral(8) x1 + Scroll of Town Portal = Nokozan Relic
+Nokozan Relic + Scroll of Town Portal = Shael(13) x1
+
+Amulet + Hel(15) x1 + Scroll of Town Portal = The Eye of Etlich
+The Eye of Etlich + Scroll of Town Portal = Tal(7) x1
+
+Amulet + Perfect Amethyst x1 + Scroll of Town Portal = The Mahim-Oak Curio
+The Mahim-Oak Curio + Scroll of Town Portal = Ral(8) x1
+
+Amulet + Lem(20) x1 + Scroll of Town Portal = Saracen's Chance
+Saracen's Chance + Scroll of Town Portal = Perfect Amethyst x1
+
+Amulet + Pul(21) x1 + Scroll of Town Portal = The Cat's Eye
+The Cat's Eye + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Amulet + Um(22) x1 + Scroll of Town Portal = Crescent Moon
+Crescent Moon + Scroll of Town Portal = Lem(20) x1
+
+Amulet + Mal(23) x1 + Scroll of Town Portal = Atma's Scarab
+Atma's Scarab + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Amulet + Hel(15) x2 + Scroll of Town Portal = The Rising Sun
+The Rising Sun + Scroll of Town Portal = Hel(15) x1
+
+Amulet + Vex(26) x1 + Scroll of Town Portal = Highlord's Wrath
+Highlord's Wrath + Scroll of Town Portal = Ist(24) x1
+
+Amulet + Pul(21) x2 + Scroll of Town Portal = Seraph's Hymn
+Seraph's Hymn + Scroll of Town Portal = Pul(21) x1
+
+Amulet + Ohm(27) x1 + Scroll of Town Portal = Mara's Kaleidoscope
+Mara's Kaleidoscope + Scroll of Town Portal = Vex(26) x1 & Um(22) x1
+
+Amulet + Ist(24) x1 + Scroll of Town Portal = Metalgrid
+Metalgrid + Scroll of Town Portal = Um(22) x1
+
+
+
+
+
+Unique Charm Trading Recipes
+
+⚠️ CAUTION ⚠️
+※ RISK OF ITEM LOSS ※
+The following three items may cause materials to disappear if you already have them in your inventory or stash when combining in the Horadric Cube.
+Always check if you already own these items before crafting.
+
+
+Small Charm + Jah(31) x1 + Scroll of Town Portal = Annihilus
+Annihilus + Scroll of Town Portal = Lo(28) x1 & Cham(32) x1 & Um(22) x1
+
+Large Charm + Sur(29) x1 + Scroll of Town Portal = Hellfire Torch
+Hellfire Torch + Scroll of Town Portal = Zod(33) x1
+
+Grand Charm + Mal(23) x2 + Scroll of Town Portal = Gheed's Fortune
+Gheed's Fortune + Scroll of Town Portal = Mal(23) x1
+
+Other Unique Charms
+
+Grand Charm + Mal(23) x1 + Scroll of Town Portal = The Black Cleft
+The Black Cleft + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Grand Charm + Um(22) x1 + Scroll of Town Portal = The Bone Break
+The Bone Break + Scroll of Town Portal= Lem(20) x1
+
+Grand Charm + Lem(20) x1 + Scroll of Town Portal = The Flame Rift
+The Flame Rift + Scroll of Town Portal = Perfect Amethyst x1
+
+Grand Charm + Pul(21) x2 + Scroll of Town Portal = The Cold Rupture
+The Cold Rupture + Scroll of Town Portal = Pul(21) x1
+
+Grand Charm + Vex(26) x1 + Scroll of Town Portal = The Crack of Heavens
+The Crack of Heavens + Scroll of Town Portal = Ist(24) x1
+
+Grand Charm + Ist(24) x1 + Scroll of Town Portal = The Rotting Fissure
+The Rotting Fissure + Scroll of Town Portal = Um(22) x1
+
+
+
+
+
+Unique Jewel Trading Recipes
+
+Jewel + Lo(28) x1 + Any Healing Potion + Scroll of Town Portal = Rainbow Facet: Fire Level-Up
+Jewel + Lo(28) x1 + Any Mana Potion + Scroll of Town Portal = Rainbow Facet: Fire Death
+
+Jewel + Ohm(27) x1 + Any Healing Potion + Scroll of Town Portal = Rainbow Facet: Cold Level-Up
+Jewel + Ohm(27) x1 + Any Mana Potion + Scroll of Town Portal = Rainbow Facet: Cold Death
+
+Jewel + Sur(29) x1 + Any Healing Potion + Scroll of Town Portal = Rainbow Facet: Lightning Level-Up
+Jewel + Sur(29) x1 + Any Mana Potion + Scroll of Town Portal = Rainbow Facet: Lightning Death
+
+Jewel + Vex(26) x1 + Any Healing Potion + Scroll of Town Portal = Rainbow Facet: Poison Level-Up
+Jewel + Vex(26) x1 + Any Mana Potion + Scroll of Town Portal = Rainbow Facet: Poison Death
+
+
+
+
+
+Set Equipment Trading Recipes
+
+Arctic Gear
+
+Short War Bow + Perfect Amethyst x1 + Key + Scroll of Town Portal = Arctic Horn
+Arctic Horn + Scroll of Town Portal = Ral(8) x1
+
+Quilted Armor + Lem(20) x1 + Key + Scroll of Town Portal = Arctic Furs
+Arctic Furs + Scroll of Town Portal = Perfect Amethyst x1
+
+Light Gauntlets + Perfect Amethyst x1 + Key + Scroll of Town Portal = Arctic Mitts
+Arctic Mitts + Scroll of Town Portal = Ral(8) x1
+
+Light Belt + Perfect Amethyst x1 + Key + Scroll of Town Portal = Arctic Binding
+Arctic Binding + Scroll of Town Portal = Ral(8) x1
+
+Hsarus' Defense
+
+Buckler + Ral(8) x1 + Key + Scroll of Town Portal = Hsarus' Iron Fist
+Hsarus' Iron Fist + Scroll of Town Portal = Shael(13) x1
+
+Belt + Perfect Amethyst x1 + Key + Scroll of Town Portal = Hsarus' Iron Stay
+Hsarus' Iron Stay + Scroll of Town Portal = Ral(8) x1
+
+Chain Boots + Ral(8) x1 + Key + Scroll of Town Portal = Hsarus' Iron Heel
+Hsarus' Iron Heel + Scroll of Town Portal = Shael(13) x1
+
+Berserker's Arsenal
+
+Helm + Hel(15) x1 + Key + Scroll of Town Portal = Berserker's Headgear
+Berserker's Headgear + Scroll of Town Portal = Tal(7) x1
+
+Double Axe + Ral(8) x1 + Key + Scroll of Town Portal = Berserker's Hatchet
+Berserker's Hatchet + Scroll of Town Portal = Shael(13) x1
+
+Splint Mail + Perfect Amethyst x1 + Key + Scroll of Town Portal = Berserker's Hauberk
+Berserker's Hauberk + Scroll of Town Portal = Ral(8) x1
+
+Cleglaw's Brace
+
+Long Sword + Perfect Amethyst x1 + Key + Scroll of Town Portal = Cleglaw's Tooth
+Cleglaw's Tooth + Scroll of Town Portal = Ral(8) x1
+
+Small Shield + Ral(8) x1 + Key + Scroll of Town Portal = Cleglaw's Claw
+Cleglaw's Claw + Scroll of Town Portal = Shael(13) x1
+
+Chain Gloves + Perfect Amethyst x1 + Key + Scroll of Town Portal = Cleglaw's Pincers
+Cleglaw's Pincers + Scroll of Town Portal = Ral(8) x1
+
+Infernal Tools
+
+Cap + Perfect Amethyst x1 + Key + Scroll of Town Portal = Infernal Cranium
+Infernal Cranium + Scroll of Town Portal = Ral(8) x1
+
+Grim Wand + Perfect Amethyst x1 + Key + Scroll of Town Portal = Infernal Torch
+Infernal Torch + Scroll of Town Portal = Ral(8) x1
+
+Heavy Belt + Perfect Amethyst x1 + Key + Scroll of Town Portal = Infernal Sign
+Infernal Sign + Scroll of Town Portal = Ral(8) x1
+
+Death's Disguise
+
+War Sword + Lem(20) x1 + Key + Scroll of Town Portal = Death's Touch
+Death's Touch + Scroll of Town Portal = Perfect Amethyst x1
+
+Leather Gloves + Mal(23) x1 + Key + Scroll of Town Portal = Death's Hand
+Death's Hand + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Sash + Mal(23) x1 + Key + Scroll of Town Portal = Death's Guard
+Death's Guard + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Sigon's Complete Steel
+
+Great Helm + Perfect Amethyst x1 + Key + Scroll of Town Portal = Sigon's Visor
+Sigon's Visor + Scroll of Town Portal = Ral(8) x1
+
+Gothic Plate + Perfect Amethyst x1 + Key + Scroll of Town Portal = Sigon's Shelter
+Sigon's Shelter + Scroll of Town Portal = Ral(8) x1
+
+Tower Shield + Perfect Amethyst x1 + Key + Scroll of Town Portal = Sigon's Guard
+Sigon's Guard + Scroll of Town Portal = Ral(8) x1
+
+Gauntlets + Ral(8) x1 + Key + Scroll of Town Portal = Sigon's Gage
+Sigon's Gage + Scroll of Town Portal = Shael(13) x1
+
+Plated Belt + Ral(8) x1 + Key + Scroll of Town Portal = Sigon's Wrap
+Sigon's Wrap + Scroll of Town Portal = Shael(13) x1
+
+Greaves + Perfect Amethyst x1 + Key + Scroll of Town Portal = Sigon's Sabot
+Sigon's Sabot + Scroll of Town Portal = Ral(8) x1
+
+Isenhart's Armory
+
+Full Helm + Ral(8) x1 + Key + Scroll of Town Portal = Isenhart's Horns
+Isenhart's Horns + Scroll of Town Portal = Shael(13) x1
+
+Breast Plate + Amn(11) x1 + Key + Scroll of Town Portal = Isenhart's Case
+Isenhart's Case + Scroll of Town Portal = Ort(9) x1
+
+Broad Sword + Amn(11) x1 + Key + Scroll of Town Portal = Isenhart's Lightbrand
+Isenhart's Lightbrand + Scroll of Town Portal = Ort(9) x1
+
+Gothic Shield + Shael(13) x1 + Key + Scroll of Town Portal = Isenhart's Parry
+Isenhart's Parry + Scroll of Town Portal = Eth(5) x1
+
+Civerb's Vestments
+
+Amulet + Perfect Amethyst x1 + Key + Scroll of Town Portal = Civerb's Icon
+Civerb's Icon + Scroll of Town Portal = Ral(8) x1
+
+Grand Scepter + Perfect Amethyst x1 + Key + Scroll of Town Portal = Civerb's Cudgel
+Civerb's Cudgel + Scroll of Town Portal = Ral(8) x1
+
+Large Shield + Ral(8) x1 + Key + Scroll of Town Portal = Civerb's Ward
+Civerb's Ward + Scroll of Town Portal = Shael(13) x1
+
+Cathan's Traps
+
+Mask + Hel(15) x1 + Key + Scroll of Town Portal = Cathan's Visage
+Cathan's Visage + Scroll of Town Portal = Tal(7) x1
+
+Amulet + Hel(15) x1 + Key + Scroll of Town Portal = Cathan's Sigil
+Cathan's Sigil + Scroll of Town Portal = Tal(7) x1
+
+Battle Staff + Perfect Amethyst x1 + Key + Scroll of Town Portal = Cathan's Rule
+Cathan's Rule + Scroll of Town Portal = Ral(8) x1
+
+Chain Mail + Ral(8) x1 + Key + Scroll of Town Portal = Cathan's Mesh
+Cathan's Mesh + Scroll of Town Portal = Shael(13) x1
+
+Ring + Ral(8) x1 + Key + Scroll of Town Portal = Cathan's Seal
+Cathan's Seal + Scroll of Town Portal = Shael(13) x1
+
+Angelic Raiment
+
+Amulet + Lem(20) x1 + Key + Scroll of Town Portal = Angelic Wings
+Angelic Wings + Scroll of Town Portal = Perfect Amethyst x1
+
+Sabre + Perfect Amethyst x1 + Key + Scroll of Town Portal = Angelic Sickle
+Angelic Sickle + Scroll of Town Portal = Ral(8) x1
+
+Ring Mail + Perfect Amethyst x1 + Key + Scroll of Town Portal = Angelic Mantle
+Angelic Mantle + Scroll of Town Portal = Ral(8) x1
+
+Ring + Lem(20) x1 + Key + Scroll of Town Portal = Angelic Halo
+Angelic Halo + Scroll of Town Portal = Perfect Amethyst x1
+
+Vidala's Rig
+
+Amulet + Ral(8) x1 + Key + Scroll of Town Portal = Vidala's Snare
+Vidala's Snare + Scroll of Town Portal = Shael(13) x1
+
+Long Battle Bow + Hel(15) x1 + Key + Scroll of Town Portal = Vidala's Barb
+Vidala's Barb + Scroll of Town Portal = Tal(7) x1
+
+Leather Armor + Lem(20) x1 + Key + Scroll of Town Portal = Vidala's Ambush
+Vidala's Ambush + Scroll of Town Portal = Perfect Amethyst x1
+
+Light Plate Boots + Hel(15) x1 + Key + Scroll of Town Portal = Vidala's Fetlock
+Vidala's Fetlock + Scroll of Town Portal = Tal(7) x1
+
+Arcanna's Tricks
+
+Amulet + Pul(21) x1 + Key + Scroll of Town Portal = Arcanna's Sign
+Arcanna's Sign + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Skull Cap + Lem(20) x1 + Key + Scroll of Town Portal = Arcanna's Head
+Arcanna's Head + Scroll of Town Portal = Perfect Amethyst x1
+
+War Staff + Perfect Amethyst x1 + Key + Scroll of Town Portal = Arcanna's Deathwand
+Arcanna's Deathwand + Scroll of Town Portal = Ral(8) x1
+
+Light Plate + Perfect Amethyst x1 + Key + Scroll of Town Portal = Arcanna's Flesh
+Arcanna's Flesh + Scroll of Town Portal = Ral(8) x1
+
+Iratha's Finery
+
+Crown + Hel(15) x1 + Key + Scroll of Town Portal = Iratha's Coil
+Iratha's Coil + Scroll of Town Portal = Tal(7) x1
+
+Amulet + Hel(15) x2 + Key + Scroll of Town Portal = Iratha's Collar
+Iratha's Collar + Scroll of Town Portal = Hel(15) x1
+
+Light Gauntlets + Hel(15) x1 + Key + Scroll of Town Portal = Iratha's Cuff
+Iratha's Cuff + Scroll of Town Portal = Tal(7) x1
+
+Heavy Belt + Hel(15) x1 + Key + Scroll of Town Portal = Iratha's Cord
+Iratha's Cord + Scroll of Town Portal = Tal(7) x1
+
+Milabrega's Regalia
+
+Crown + Ral(8) x1 + Key + Scroll of Town Portal = Milabrega's Diadem
+Milabrega's Diadem + Scroll of Town Portal = Shael(13) x1
+
+War Scepter + Perfect Amethyst x1 + Key + Scroll of Town Portal = Milabrega's Rod
+Milabrega's Rod + Scroll of Town Portal = Ral(8) x1
+
+Ancient Armor + Lem(20) x1 + Key + Scroll of Town Portal = Milabrega's Robe
+Milabrega's Robe + Scroll of Town Portal = Perfect Amethyst x1
+
+Kite Shield + Ral(8) x1 + Key + Scroll of Town Portal = Milabrega's Orb
+Milabrega's Orb + Scroll of Town Portal = Shael(13) x1
+
+Tancred's Battlegear
+
+Bone Helm + Amn(11) x1 + Key + Scroll of Town Portal = Tancred's Skull
+Tancred's Skull + Scroll of Town Portal = Ort(9) x1
+
+Amulet + Tal(7) x1 + Key + Scroll of Town Portal = Tancred's Weird
+Tancred's Weird + Scroll of Town Portal = Amn(11) x1
+
+Boots + Perfect Amethyst x1 + Key + Scroll of Town Portal = Tancred's Hobnails
+Tancred's Hobnails + Scroll of Town Portal = Ral(8) x1
+
+Full Plate Mail + Amn(11) x1 + Key + Scroll of Town Portal = Tancred's Spine
+Tancred's Spine + Scroll of Town Portal = Ort(9) x1
+
+Military Pick + Amn(11) x1 + Key + Scroll of Town Portal = Tancred's Crowbill
+Tancred's Crowbill + Scroll of Town Portal = Ort(9) x1
+
+Cow King's Leathers
+
+War Hat + Pul(21) x2 + Key + Scroll of Town Portal = Cow King's Horns
+Cow King's Horns + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Studded Leather + Hel(15) x1 + Key + Scroll of Town Portal = Cow King's Hide
+Cow King's Hide + Scroll of Town Portal = Tal(7) x1
+
+Heavy Boots + Ist(24) x1 + Key + Scroll of Town Portal = Cow King's Hooves
+Cow King's Hooves + Scroll of Town Portal = Um(22) x1
+
+Sander's Folly
+
+Cap + Hel(15) x1 + Key + Scroll of Town Portal = Sander's Paragon
+Sander's Paragon + Scroll of Town Portal = Tal(7) x1
+
+Bone Wand + Ral(8) x1 + Key + Scroll of Town Portal = Sander's Superstition
+Sander's Superstition + Scroll of Town Portal = Shael(13) x1
+
+Heavy Gloves + Perfect Amethyst x1 + Key + Scroll of Town Portal = Sander's Taboo
+Sander's Taboo + Scroll of Town Portal = Ral(8) x1
+
+Heavy Boots + Perfect Amethyst x1 + Key + Scroll of Town Portal = Sander's Riprap
+Sander's Riprap + Scroll of Town Portal = Ral(8) x1
+
+M'avina's Battle Hymn
+
+Diadem + Mal(23) x1 + Key + Scroll of Town Portal = M'avina's True Sight
+M'avina's True Sight + Scroll of Town Portal = Lum(17) x1 & Shael(13) x1
+
+Grand Matron Bow + Lem(20) x1 + Key + Scroll of Town Portal = M'avina's Caster
+M'avina's Caster + Scroll of Town Portal = Ral(8) x1
+
+Kraken Shell + Lem(20) x1 + Key + Scroll of Town Portal = M'avina's Embrace
+M'avina's Embrace + Scroll of Town Portal = Ral(8) x1
+
+Battle Gauntlets + Perfect Amethyst x1 + Key + Scroll of Town Portal = M'avina's Icy Clutch
+M'avina's Icy Clutch + Scroll of Town Portal = Shael(13) x1
+
+Sharkskin Belt + Lem(20) x1 + Key + Scroll of Town Portal = M'avina's Tenet
+M'avina's Tenet + Scroll of Town Portal = Ral(8) x1
+
+Natalya's Odium
+
+Grim Helm + Lem(20) x1 + Key + Scroll of Town Portal = Natalya's Totem
+Natalya's Totem + Scroll of Town Portal = Ral(8) x1
+
+Scissors Suwayyah + Lem(20) x1 + Key + Scroll of Town Portal = Natalya's Mark
+Natalya's Mark + Scroll of Town Portal = Ral(8) x1
+
+Loricated Mail + Lem(20) x1 + Key + Scroll of Town Portal = Natalya's Shadow
+Natalya's Shadow + Scroll of Town Portal = Ral(8) x1
+
+Mesh Boots + Ist(24) x1 + Key + Scroll of Town Portal = Natalya's Soul
+Natalya's Soul + Scroll of Town Portal = Lem(20) x1
+
+Tal Rasha's Wrappings
+
+Death Mask + Lem(20) x1 + Key + Scroll of Town Portal = Tal Rasha's Horadric Crest
+Tal Rasha's Horadric Crest + Scroll of Town Portal = Ral(8) x1
+
+Amulet + Ist(24) x1 + Key + Scroll of Town Portal = Tal Rasha's Adjudication
+Tal Rasha's Adjudication + Scroll of Town Portal = Um(22) x1
+
+Swirling Crystal + Vex(26) x1 + Key + Scroll of Town Portal = Tal Rasha's Lidless Eye
+Tal Rasha's Lidless Eye + Scroll of Town Portal = Um(22) x1
+
+Lacquered Plate + Vex(26) x1 + Key + Scroll of Town Portal = Tal Rasha's Guardianship
+Tal Rasha's Guardianship + Scroll of Town Portal = Um(22) x1
+
+Mesh Belt + Um(22) x1 + Key + Scroll of Town Portal = Tal Rasha's Fine-Spun Cloth
+Tal Rasha's Fine-Spun Cloth + Scroll of Town Portal = Perfect Amethyst x1
+
+Hwanin's Majesty
+
+Grand Crown + Lem(20) x1 + Key + Scroll of Town Portal = Hwanin's Splendor
+Hwanin's Splendor + Scroll of Town Portal = Ral(8) x1
+
+Bill + Lem(20) x1 + Key + Scroll of Town Portal = Hwanin's Justice
+Hwanin's Justice + Scroll of Town Portal = Ral(8) x1
+
+Tigulated Mail + Lem(20) x1 + Key + Scroll of Town Portal = Hwanin's Refuge
+Hwanin's Refuge + Scroll of Town Portal = Ral(8) x1
+
+Belt + Perfect Amethyst x1 + Key + Scroll of Town Portal = Hwanin's Blessing
+Hwanin's Blessing + Scroll of Town Portal = Ral(8) x1
+
+Aldur's Watchtower
+
+Hunter's Guise + Ist(24) x1 + Key + Scroll of Town Portal = Aldur's Stony Gaze
+Aldur's Stony Gaze + Scroll of Town Portal = Lem(20) x1
+
+Jagged Star + Lem(20) x1 + Key + Scroll of Town Portal = Aldur's Rhythm
+Aldur's Rhythm + Scroll of Town Portal = Ral(8) x1
+
+Shadow Plate + Mal(23) x2 + Key + Scroll of Town Portal = Aldur's Deception
+Aldur's Deception + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
+
+Battle Boots + Pul(21) x2 + Key + Scroll of Town Portal = Aldur's Advance
+Aldur's Advance + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Trang-Oul's Avatar
+
+Bone Visage + Hel(15) x2 + Key + Scroll of Town Portal = Trang-Oul's Guise
+Trang-Oul's Guise + Scroll of Town Portal = Tal(7) x1
+
+Chaos Armor + Lem(20) x1 + Key + Scroll of Town Portal = Trang-Oul's Scales
+Trang-Oul's Scales + Scroll of Town Portal = Ral(8) x1
+
+Cantor Trophy + Um(22) x1 + Key + Scroll of Town Portal = Trang-Oul's Wing
+Trang-Oul's Wing + Scroll of Town Portal = Perfect Amethyst x1
+
+Heavy Bracers + Lem(20) x1 + Key + Scroll of Town Portal = Trang-Oul's Claws
+Trang-Oul's Claws + Scroll of Town Portal = Ral(8) x1
+
+Troll Belt + Ist(24) x1 + Key + Scroll of Town Portal = Trang-Oul's Girth
+Trang-Oul's Girth + Scroll of Town Portal = Lem(20) x1
+
+Sazabi's Grand Tribute
+
+Basinet + Lem(20) x1 + Key + Scroll of Town Portal = Sazabi's Mental Sheath
+Sazabi's Mental Sheath + Scroll of Town Portal = Ral(8) x1
+
+Cryptic Sword + Lem(20) x1 + Key + Scroll of Town Portal = Sazabi's Cobalt Redeemer
+Sazabi's Cobalt Redeemer + Scroll of Town Portal = Ral(8) x1
+
+Balrog Skin + Lem(20) x1 + Key + Scroll of Town Portal = Sazabi's Ghost Liberator
+Sazabi's Ghost Liberator + Scroll of Town Portal = Ral(8) x1
+
+Immortal King
+
+Avenger Guard + Lem(20) x1 + Key + Scroll of Town Portal = Immortal King's Will
+Immortal King's Will + Scroll of Town Portal = Perfect Amethyst x1
+
+Ogre Maul + Lem(20) x1 + Key + Scroll of Town Portal = Immortal King's Stone Crusher
+Immortal King's Stone Crusher + Scroll of Town Portal = Ral(8) x1
+
+Sacred Armor + Um(22) x1 + Key + Scroll of Town Portal = Immortal King's Soul Cage
+Immortal King's Soul Cage + Scroll of Town Portal = Perfect Amethyst x1
+
+War Gauntlets + Lem(20) x1 + Key + Scroll of Town Portal = Immortal King's Forge
+Immortal King's Forge + Scroll of Town Portal = Ral(8) x1
+
+War Belt + Lem(20) x1 + Key + Scroll of Town Portal = Immortal King's Detail
+Immortal King's Detail + Scroll of Town Portal = Ral(8) x1
+
+War Boots + Lem(20) x1 + Key + Scroll of Town Portal = Immortal King's Pillar
+Immortal King's Pillar + Scroll of Town Portal = Ral(8) x1
+
+The Disciple
+
+Amulet + Um(22) x1 + Key + Scroll of Town Portal = Telling of Beads
+Telling of Beads + Scroll of Town Portal = Lem(20) x1
+
+Dusk Shroud + Lem(20) x1 + Key + Scroll of Town Portal = Dark Adherent
+Dark Adherent + Scroll of Town Portal = Ral(8) x1
+
+Bramble Mitts + Lem(20) x1 + Key + Scroll of Town Portal = Laying of Hands
+Laying of Hands + Scroll of Town Portal = Ral(8) x1
+
+Mithril Coil + Lem(20) x1 + Key + Scroll of Town Portal = Credendum
+Credendum + Scroll of Town Portal = Ral(8) x1
+
+Demonhide Boots + Lem(20) x1 + Key + Scroll of Town Portal = Rite of Passage
+Rite of Passage + Scroll of Town Portal = Ral(8) x1
+
+Orphan's Call
+
+Winged Helm + Um(22) x1 + Key + Scroll of Town Portal = Guillaume's Face
+Guillaume's Face + Scroll of Town Portal = Perfect Amethyst x1
+
+Round Shield + Hel(15) x2 + Key + Scroll of Town Portal = Whitstan's Guard
+Whitstan's Guard + Scroll of Town Portal = Tal(7) x1
+
+Sharkskin Gloves + Lem(20) x1 + Key + Scroll of Town Portal = Magnus' Skin
+Magnus' Skin + Scroll of Town Portal = Ral(8) x1
+
+Battle Belt + Lem(20) x1 + Key + Scroll of Town Portal = Wilhelm's Pride
+Wilhelm's Pride + Scroll of Town Portal = Ral(8) x1
+
+Naj's Ancient Vestige
+
+Elder Staff + Lem(20) x1 + Key + Scroll of Town Portal = Naj's Puzzler
+Naj's Puzzler + Scroll of Town Portal = Ral(8) x1
+
+Hellforge Plate + Lem(20) x1 + Key + Scroll of Town Portal = Naj's Light Plate
+Naj's Light Plate + Scroll of Town Portal = Ral(8) x1
+
+Circlet + Perfect Amethyst x1 + Key + Scroll of Town Portal = Naj's Circlet
+Naj's Circlet + Scroll of Town Portal = Ral(8) x1
+
+Griswold's Legacy
+
+Corona + Pul(21) x2 + Key + Scroll of Town Portal = Griswold's Valor
+Griswold's Valor + Scroll of Town Portal = Lum(17) x1 & Ral(8) x1
+
+Caduceus + Vex(26) x1 + Key + Scroll of Town Portal = Griswold's Redemption
+Griswold's Redemption + Scroll of Town Portal = Um(22) x1
+
+Ornate Plate + Lem(20) x1 + Key + Scroll of Town Portal = Griswold's Heart
+Griswold's Heart + Scroll of Town Portal = Ral(8) x1
+
+Vortex Shield + Ist(24) x1 + Key + Scroll of Town Portal = Griswold's Honor
+Griswold's Honor + Scroll of Town Portal = Lem(20) x1
+
+Bul-Kathos' Children
+
+Mythical Sword + Lem(20) x1 + Key + Scroll of Town Portal = Bul-Kathos' Tribal Guardian
+Bul-Kathos' Tribal Guardian + Scroll of Town Portal = Ral(8) x1
+
+Colossus Blade + Lem(20) x1 + Key + Scroll of Town Portal = Bul-Kathos' Sacred Charge
+Bul-Kathos' Sacred Charge + Scroll of Town Portal = Ral(8) x1
+
+Heaven's Brethren
+
+Spired Helm + Um(22) x1 + Key + Scroll of Town Portal = Ondal's Almighty
+Ondal's Almighty + Scroll of Town Portal = Perfect Amethyst x1
+
+Cuirass + Um(22) x1 + Key + Scroll of Town Portal = Haemosu's Adamant
+Haemosu's Adamant + Scroll of Town Portal = Perfect Amethyst x1
+
+Reinforced Mace + Lem(20) x1 + Key + Scroll of Town Portal = Dangoon's Teaching
+Dangoon's Teaching + Scroll of Town Portal = Ral(8) x1
+
+Ward + Ist(24) x1 + Key + Scroll of Town Portal = Taebaek's Glory
+Taebaek's Glory + Scroll of Town Portal = Lem(20) x1
+
+
+
+
+
+Miscellaneous Trading Recipes
+
+Perfect Topaz x3 + Scroll of Town Portal = Perfect Amethyst x1
+Perfect Sapphire x3 + Scroll of Town Portal = Perfect Amethyst x1
+Perfect Emerald x4 + Scroll of Town Portal = Perfect Amethyst x1
+Perfect Ruby x5 + Scroll of Town Portal = Lem(20) x1
+Perfect Diamond x5 + Scroll of Town Portal = Perfect Amethyst x1
+Perfect Skull x5 + Scroll of Town Portal = Lem(20) x1
+
+Any Jewel x5 + Scroll of Town Portal = Perfect Amethyst x1
+
+Gul(25) x1 + Key + Scroll of Town Portal = Key of Terror x1 & Key of Hate x1 & Key of Destruction x1
+Key of Terror x1 + Key of Hate x1 + Key of Destruction x1 + Scroll of Town Portal = Gul(25) x1
+
+Ist(24) x1 + Key + Scroll of Town Portal = Token of Absolution
+Twisted Essence of Suffering x5 + Scroll of Town Portal = Perfect Amethyst x1
+Charged Essence of Hatred x1 + Scroll of Town Portal = Perfect Amethyst x1
+Burning Essence of Terror x5 + Scroll of Town Portal = Perfect Amethyst x1
+Festering Essence of Destruction x1 + Scroll of Town Portal = Mal(23) x1

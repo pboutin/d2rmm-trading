@@ -1,68 +1,83 @@
-const cubemainFilename = 'global\\excel\\cubemain.txt';
+const cubemainFilename = "global\\excel\\cubemain.txt";
 const cubemain = D2RMM.readTsv(cubemainFilename);
 
-const uniqueitemsFilename = 'global\\excel\\uniqueitems.txt';
-const uniqueitems = D2RMM.readTsv(uniqueitemsFilename);
+const RECIPES = fs.readFileSync("./trade-items.json", "utf8");
 
+const TP_SCROLL = "tsc";
 
+const CURRENCY_CODE_MAP = {
+  Amethyst: "am",
+  Lem: "r20",
+  Pul: "r21",
+  Um: "r22",
+  Mal: "r23",
+  Ist: "r24",
+  Gul: "r25",
+  Vex: "r26",
+  Ohm: "r27",
+  Lo: "r28",
+  Sur: "r29",
+  Ber: "r30",
+  Jah: "r31",
+  Cham: "r32",
+  Zod: "r33",
+};
 
-/**
- * Calculates the input value for recipe balancing
- * @param {string} input - Input item name or code
- * @returns {number} - Calculated input value
- */
-function calcInput(input) {
-  if (!input) return 0;
-  
-  // Rune calculations (r1 = 1, r2 = 2, etc)
-  if (input.startsWith('r') && input.length > 1) {
-      const runeNumber = parseInt(input.substring(1));
-      return runeNumber || 0;
-  }
-  
-  // Default value for other items
-  return 1;
+const COMBOS = [
+  [["Amethyst"], 1],
+  [["Lem"], 2],
+  [["Pul"], 5],
+  [["Um"], 10],
+  [["Mal"], 15],
+  [["Ist"], 20],
+  [["Mal", "Um"], 25],
+  [["Ist", "Um"], 30],
+  [["Ist", "Mal"], 35],
+  [["Gul"], 40],
+  [["Vex"], 60],
+  [["Ohm"], 80],
+  [["Cham"], 100],
+  [["Lo"], 120],
+  [["Sur"], 140],
+  [["Zod"], 160],
+  [["Ohm", "Cham"], 180],
+  [["Ber"], 200],
+  [["Cham", "Sur"], 240],
+  [["Zod", "Lo"], 280],
+  [["Ber", "Lo"], 320],
+  [["Jah"], 360],
+];
+
+function currencyInputs(value) {
+  const closestValue = COMBOS.reduce((prev, curr) => {
+    return Math.abs(curr[1] - value) < Math.abs(prev[1] - value) ? curr : prev;
+  });
+
+  return closestValue;
 }
 
-/**
- * Adds a new recipe to the cube main data
- * @param {string} input1 - First input item
- * @param {string} input2 - Second input item
- * @param {string} input3 - Third input item
- * @param {string} input4 - Fourth input item
- * @param {string} output - Output item
- * @param {number} quantity - Output quantity
- * @param {string} mod - Additional modifier
- * @param {string} description - Recipe description
- */
-function addRecipeNew(inputs, output, quantity, mod, description) {
+function declareRecipe(inputs, outputs, description) {
   const recipe = {
-      description,
-      enabled: "1",
-      version: "100",
-      lvl: "100",
-      ilvl: "1000",
-      "*eol\r": "0"
+    description,
+    output: outputs[0],
+    enabled: "1",
+    version: "100",
+    lvl: "100",
+    ilvl: "1000",
+    "*eol\r": "0",
   };
+
+  if (outputs.length > 1) {
+    recipe["output a"] = outputs[1];
+  }
+
+  if (outputs.length > 2) {
+    recipe["output b"] = outputs[2];
+  }
 
   for (let i = 0; i < inputs.length; i++) {
     recipe[`input ${i + 1}`] = inputs[i];
   }
-
-  if (output) recipe["output"] = output;
-
-  // Handle special case for socketed items
-  if (output.includes("sockets")) {
-      var sockets = output.slice(-1);
-      recipe["output"] = output.slice(0, -9);
-      recipe["mod 1"] = "sock";
-      recipe["mod 1 min"] = sockets;
-      recipe["mod 1 max"] = sockets;
-  } else {
-      if (output) recipe["output"] = output;
-  }
-
-  if (mod) recipe["mod 1"] = mod;
 
   recipe["numinputs"] = inputs.length;
 
@@ -70,55 +85,18 @@ function addRecipeNew(inputs, output, quantity, mod, description) {
   cubemain.rows.push(recipe);
 }
 
-// Add specific Titan's Revenge recipes
-// ... existing code ...
-
-// Add specific Titan's Revenge recipes
-function addTitansRevengeRecipes() {
-  // Recipe 1: Javelin + Vex + Scroll of Town Portal = Titan's Revenge
-
-  addRecipeNew(
-    ["jav", "r14", "tsc"],    // input 1
-    "Titan's Revenge,eth", // "Titan's Revenge",       // output
-    1,                       // quantity
-    null,                    // mod
-    "Buy Titan's Revenge for Dol" // description
-);
-
-  addRecipeNew(
-      ["jav", "r13", "tsc"],    // input 1
-      "Titan's Revenge,noe", // "Titan's Revenge",       // output
-      1,                       // quantity
-      null,                    // mod
-      "Buy Titan's Revenge for Shael" // description
+RECIPES.forEach((recipe) => {
+  declareRecipe(
+    [recipe.baseItem.code, ...currencyInputs(recipe.value), TP_SCROLL],
+    [recipe.itemName],
+    `Buying ${recipe.itemName}`
   );
 
-  // Recipe 2: Titan's Revenge + Scroll of Town Portal = Um
-  addRecipeNew(
-      ["Titan's Revenge,noe", "tsc"], // "Titan's Revenge",       // input 1
-      "r22",                   // output (Um)
-      1,                       // quantity
-      null,                    // mod
-      "Sell Titan's Revenge for Um" // description
+  declareRecipe(
+    [recipe.itemName, TP_SCROLL],
+    currencyInputs(recipe.value * 0.75),
+    `Selling ${recipe.itemName}`
   );
-  addRecipeNew(
-    ["Titan's Revenge,eth", "tsc"], // "Titan's Revenge",       // input 1
-    "r23",                   // output (Um)
-    1,                       // quantity
-    null,                    // mod
-    "Sell Titan's Revenge for Um+" // description
-  );
-
-  addRecipeNew(
-    ["cap", "r13", "tsc"], // "Titan's Revenge",       // input 1
-    "Harlequin Crest,noe",                   // output (Um)
-    1,                       // quantity
-    null,                    // mod
-    "Buy Shako for Dol" // description
-  );
-}
-
-// Call the function to add the recipes
-addTitansRevengeRecipes(); 
+});
 
 D2RMM.writeTsv(cubemainFilename, cubemain);
