@@ -2,6 +2,7 @@ const cubemainFilename = "global\\excel\\cubemain.txt";
 const cubemain = D2RMM.readTsv(cubemainFilename);
 
 import ITEMS from "./items";
+import RUNES from "./runes";
 
 const TP_SCROLL = "tsc";
 
@@ -47,12 +48,6 @@ const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Ber", "Lo"], 320],
   [["Jah"], 360],
 ];
-
-const RUNES_EXCHANGES = [
-  [["Um", "Um", "Gul"], ["Vex"]],
-  [["Gul", "Ist"], ["Vex"]],
-  [["Mal", "Pul"], ["Ist"]],
-]
 
 function runesToCodes(runes) {
   return runes.map((rune) => CURRENCY_CODE_MAP[rune]);
@@ -111,11 +106,19 @@ ITEMS.forEach((recipe) => {
   );
 });
 
-RUNES_EXCHANGES.forEach((exchange) => {
+Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
+  exchanges.forEach((exchange) => {
+    declareRecipe(
+      [...runesToCodes(exchange), TP_SCROLL],
+      [...runesToCodes([rune]), TP_SCROLL],
+      `Exchange "${exchange.join(" + ")}" for "${rune}"`
+    );
+  });
+
   declareRecipe(
-    [...runesToCodes(exchange[0]), TP_SCROLL],
-    [...runesToCodes(exchange[1]), TP_SCROLL],
-    `Exchange ${exchange[0]} for ${exchange[1]}`
+    runesToCodes([rune]),
+    runesToCodes(exchanges[0]),
+    `Exchange "${rune}" for "${exchanges[0].join(" + ")}"`
   );
 });
 
