@@ -112,7 +112,7 @@ export default [
     "ethereal": false
   },
   {
-    "itemName": "Valkyrie Wing",
+    "itemName": "Valkiry Wing",
     "baseItem": {
       "name": "Great Helm",
       "code": "ghm",
@@ -1028,7 +1028,7 @@ export default [
     "ethereal": false
   },
   {
-    "itemName": "Tal Rasha's Fine-Spun Cloth",
+    "itemName": "Tal Rasha's Fire-Spun Cloth",
     "baseItem": {
       "name": "Belt",
       "code": "mbl",

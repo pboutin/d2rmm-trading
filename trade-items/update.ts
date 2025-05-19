@@ -44,7 +44,7 @@ import resolveItem from "./item-resolver";
     }
 
     const tradeItem: TradeItem = {
-      itemName,
+      itemName: item.name,
       baseItem,
       value,
       ethereal: false,

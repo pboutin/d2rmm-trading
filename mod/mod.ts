@@ -50,7 +50,8 @@ const PAYMENT_COMBOS: Array<[string[], number]> = [
 
 const RUNES_EXCHANGES = [
   [["Um", "Um", "Gul"], ["Vex"]],
-  [["Gul", "Ist"], ["Vex"]]
+  [["Gul", "Ist"], ["Vex"]],
+  [["Mal", "Pul"], ["Ist"]],
 ]
 
 function runesToCodes(runes) {
