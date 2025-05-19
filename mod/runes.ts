@@ -8,11 +8,13 @@ export default {
     ["Zod", "Gul"],
     ["Sur", "Vex"],
     ["Cham", "Gul", "Vex"],
+    ["Cham", "Cham"],
   ],
   Zod: [
     ["Cham", "Vex"],
     ["Sur", "Ist"],
     ["Lo", "Gul"],
+    ["Ohm", "Ohm"],
   ],
   Sur: [
     ["Lo", "Ist"],
@@ -22,13 +24,26 @@ export default {
   Lo: [
     ["Cham", "Ist"],
     ["Ohm", "Gul"],
+    ["Vex", "Vex"],
   ],
   Cham: [
     ["Ohm", "Ist"],
     ["Vex", "Gul"],
   ],
-  Ohm: [["Vex", "Ist"]],
-  Vex: [["Gul", "Ist"]],
-  Gul: [["Ist", "Mal", "Pul"]],
-  Ist: [["Mal", "Pul"]],
+  Ohm: [
+    ["Vex", "Ist"],
+    ["Gul", "Gul"],
+  ],
+  Vex: [
+    ["Gul", "Ist"],
+    ["Ist", "Ist", "Ist"],
+  ],
+  Gul: [
+    ["Ist", "Ist"],
+    ["Ist", "Mal", "Pul"],
+  ],
+  Ist: [
+    ["Mal", "Pul"],
+    ["Um", "Um"],
+  ],
 };

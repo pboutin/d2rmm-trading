@@ -74,10 +74,28 @@ function valueToRunes(value) {
   return [...additionalRunes, ...runes];
 }
 
+function adjustDuplicateCodes(codes: string[]) {
+  const codeCountMap: Map<string, number> = codes.reduce(
+    (acc: Map<string, number>, code) => {
+      acc.set(code, (acc.get(code) ?? 0) + 1);
+      return acc;
+    },
+    new Map()
+  );
+
+  return Array.from(codeCountMap.entries()).map(([code, count]) => {
+    if (count === 1) return code;
+    return `"${code},qty=${count}"`;
+  });
+}
+
 function declareRecipe(inputs, outputs, description) {
+  const effectiveInputs = adjustDuplicateCodes(inputs);
+  const effectiveOutputs = adjustDuplicateCodes(outputs);
+
   const recipe = {
     description,
-    output: outputs[0],
+    output: effectiveOutputs[0],
     enabled: "1",
     version: "100",
     lvl: "100",
@@ -85,19 +103,19 @@ function declareRecipe(inputs, outputs, description) {
     "*eol\r": "0",
   };
 
-  if (outputs.length > 1) {
-    recipe["output b"] = outputs[1];
+  if (effectiveOutputs.length > 1) {
+    recipe["output b"] = effectiveOutputs[1];
   }
 
-  if (outputs.length > 2) {
-    recipe["output c"] = outputs[2];
+  if (effectiveOutputs.length > 2) {
+    recipe["output c"] = effectiveOutputs[2];
   }
 
-  for (let i = 0; i < inputs.length; i++) {
-    recipe[`input ${i + 1}`] = inputs[i];
+  for (let i = 0; i < effectiveInputs.length; i++) {
+    recipe[`input ${i + 1}`] = effectiveInputs[i];
   }
 
-  recipe["numinputs"] = inputs.length;
+  recipe["numinputs"] = effectiveInputs.length;
 
   // Add recipe to cubemain data
   cubemain.rows.push(recipe);
