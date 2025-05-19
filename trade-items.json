@@ -42,6 +42,20 @@
     "ethereal": false
   },
   {
+    "itemName": "Naj's Puzzler",
+    "baseItem": {
+      "name": "Gnarled Staff",
+      "code": "cst",
+      "variants": [
+        "cst",
+        "8cs",
+        "6cs"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Stormshield",
     "baseItem": {
       "name": "Kite Shield",
@@ -168,6 +182,34 @@
     "ethereal": false
   },
   {
+    "itemName": "Death's Hand",
+    "baseItem": {
+      "name": "Leather Gloves",
+      "code": "lgl",
+      "variants": [
+        "lgl",
+        "xlg",
+        "ulg"
+      ]
+    },
+    "value": 15,
+    "ethereal": false
+  },
+  {
+    "itemName": "Laying of Hands",
+    "baseItem": {
+      "name": "Leather Gloves",
+      "code": "lgl",
+      "variants": [
+        "lgl",
+        "xlg",
+        "ulg"
+      ]
+    },
+    "value": 5,
+    "ethereal": false
+  },
+  {
     "itemName": "Razortail",
     "baseItem": {
       "name": "Light Belt",
@@ -210,6 +252,34 @@
     "ethereal": false
   },
   {
+    "itemName": "Credendum",
+    "baseItem": {
+      "name": "Belt",
+      "code": "mbl",
+      "variants": [
+        "mbl",
+        "zmb",
+        "umc"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Aldur's Advance",
+    "baseItem": {
+      "name": "Light Plated Boots",
+      "code": "tbt",
+      "variants": [
+        "tbt",
+        "xtb",
+        "utb"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
     "itemName": "Silkweave",
     "baseItem": {
       "name": "Chain Boots",
@@ -221,6 +291,116 @@
       ]
     },
     "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Natalya's Soul",
+    "baseItem": {
+      "name": "Chain Boots",
+      "code": "mbt",
+      "variants": [
+        "mbt",
+        "xmb",
+        "umb"
+      ]
+    },
+    "value": 20,
+    "ethereal": false
+  },
+  {
+    "itemName": "Highlord's Wrath",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 60,
+    "ethereal": false
+  },
+  {
+    "itemName": "The Cat's Eye",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 5,
+    "ethereal": false
+  },
+  {
+    "itemName": "Mara's Kaleidoscope",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 80,
+    "ethereal": false
+  },
+  {
+    "itemName": "Raven Frost",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 15,
+    "ethereal": false
+  },
+  {
+    "itemName": "The Stone of Jordan",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 120,
+    "ethereal": false
+  },
+  {
+    "itemName": "Nature's Peace",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Dwarf Star",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Nagelring",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 1,
     "ethereal": false
   },
   {
@@ -364,6 +544,20 @@
     "ethereal": false
   },
   {
+    "itemName": "Trang-Oul's Claws",
+    "baseItem": {
+      "name": "Chain Gloves",
+      "code": "mgl",
+      "variants": [
+        "mgl",
+        "xmg",
+        "umg"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Goldwrap",
     "baseItem": {
       "name": "Heavy Belt",
@@ -392,6 +586,46 @@
     "ethereal": false
   },
   {
+    "itemName": "Immortal King's Detail",
+    "baseItem": {
+      "name": "Plated Belt",
+      "code": "hbl",
+      "variants": [
+        "hbl",
+        "zhb",
+        "uhc"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Seraph's Hymn",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Death's Guard",
+    "baseItem": {
+      "name": "Sash",
+      "code": "lbl",
+      "variants": [
+        "lbl",
+        "zlb",
+        "ulc"
+      ]
+    },
+    "value": 15,
+    "ethereal": false
+  },
+  {
     "itemName": "Fleshripper",
     "baseItem": {
       "name": "Kriss",
@@ -403,6 +637,34 @@
       ]
     },
     "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Guillaume's Face",
+    "baseItem": {
+      "name": "Great Helm",
+      "code": "ghm",
+      "variants": [
+        "ghm",
+        "xhm",
+        "uhm"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Tal Rasha's Horadric Crest",
+    "baseItem": {
+      "name": "Mask",
+      "code": "msk",
+      "variants": [
+        "msk",
+        "xsk",
+        "usk"
+      ]
+    },
+    "value": 2,
     "ethereal": false
   },
   {
@@ -462,6 +724,20 @@
     "ethereal": false
   },
   {
+    "itemName": "Trang-Oul's Girth",
+    "baseItem": {
+      "name": "Heavy Belt",
+      "code": "tbl",
+      "variants": [
+        "tbl",
+        "ztb",
+        "utc"
+      ]
+    },
+    "value": 20,
+    "ethereal": false
+  },
+  {
     "itemName": "Goblin Toe",
     "baseItem": {
       "name": "Light Plated Boots",
@@ -476,6 +752,30 @@
     "ethereal": false
   },
   {
+    "itemName": "Metalgrid",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 20,
+    "ethereal": false
+  },
+  {
+    "itemName": "Angelic Wings",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Windforce",
     "baseItem": {
       "name": "Long War Bow",
@@ -487,6 +787,34 @@
       ]
     },
     "value": 60,
+    "ethereal": false
+  },
+  {
+    "itemName": "M'avina's Caster",
+    "baseItem": {
+      "name": "Reflex Bow",
+      "code": "am2",
+      "variants": [
+        "am2",
+        "am7",
+        "amc"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Buriza-Do Kyanon",
+    "baseItem": {
+      "name": "Heavy Crossbow",
+      "code": "hxb",
+      "variants": [
+        "hxb",
+        "8hx",
+        "6hx"
+      ]
+    },
+    "value": 2,
     "ethereal": false
   },
   {
@@ -546,6 +874,34 @@
     "ethereal": false
   },
   {
+    "itemName": "M'avina's True Sight",
+    "baseItem": {
+      "name": "Circlet",
+      "code": "ci0",
+      "variants": [
+        "ci0",
+        "ci2",
+        "ci3"
+      ]
+    },
+    "value": 15,
+    "ethereal": false
+  },
+  {
+    "itemName": "M'avina's Embrace",
+    "baseItem": {
+      "name": "Field Plate",
+      "code": "fld",
+      "variants": [
+        "fld",
+        "xld",
+        "uld"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Twitchthroe",
     "baseItem": {
       "name": "Studded Leather ",
@@ -574,6 +930,34 @@
     "ethereal": false
   },
   {
+    "itemName": "M'avina's Icy Clutch",
+    "baseItem": {
+      "name": "Light Gauntlets",
+      "code": "tgl",
+      "variants": [
+        "tgl",
+        "xtg",
+        "utg"
+      ]
+    },
+    "value": 1,
+    "ethereal": false
+  },
+  {
+    "itemName": "M'avina's Tenet",
+    "baseItem": {
+      "name": "Light Belt",
+      "code": "vbl",
+      "variants": [
+        "vbl",
+        "zvb",
+        "uvc"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "The Oculus",
     "baseItem": {
       "name": "Jared's Stone",
@@ -585,6 +969,20 @@
       ]
     },
     "value": 40,
+    "ethereal": false
+  },
+  {
+    "itemName": "Tal Rasha's Lidless Eye",
+    "baseItem": {
+      "name": "Jared's Stone",
+      "code": "ob5",
+      "variants": [
+        "ob5",
+        "oba",
+        "obf"
+      ]
+    },
+    "value": 60,
     "ethereal": false
   },
   {
@@ -616,17 +1014,43 @@
     "ethereal": false
   },
   {
-    "itemName": "Snowclash",
+    "itemName": "Tal Rasha's Fine-Spun Cloth",
     "baseItem": {
-      "name": "Heavy Belt",
-      "code": "tbl",
+      "name": "Belt",
+      "code": "mbl",
       "variants": [
-        "tbl",
-        "ztb",
-        "utc"
+        "mbl",
+        "zmb",
+        "umc"
       ]
     },
-    "value": 20,
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Tal Rasha's Adjudication",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 25,
+    "ethereal": false
+  },
+  {
+    "itemName": "Trang-Oul's Wing",
+    "baseItem": {
+      "name": "Gargoyle Head",
+      "code": "ne4",
+      "variants": [
+        "ne4",
+        "ne9",
+        "nee"
+      ]
+    },
+    "value": 10,
     "ethereal": false
   },
   {
@@ -644,6 +1068,20 @@
     "ethereal": false
   },
   {
+    "itemName": "Trang-Oul's Scales",
+    "baseItem": {
+      "name": "Full Plate Mail",
+      "code": "ful",
+      "variants": [
+        "ful",
+        "xul",
+        "uul"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Marrowwalk",
     "baseItem": {
       "name": "Chain Boots",
@@ -655,6 +1093,20 @@
       ]
     },
     "value": 60,
+    "ethereal": false
+  },
+  {
+    "itemName": "Immortal King's Will",
+    "baseItem": {
+      "name": "Avenger Guard",
+      "code": "ba5",
+      "variants": [
+        "ba5",
+        "baa",
+        "baf"
+      ]
+    },
+    "value": 2,
     "ethereal": false
   },
   {
@@ -686,6 +1138,48 @@
     "ethereal": false
   },
   {
+    "itemName": "Immortal King's Soul Cage",
+    "baseItem": {
+      "name": "Ancient Armor",
+      "code": "aar",
+      "variants": [
+        "aar",
+        "xar",
+        "uar"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Immortal King's Pillar",
+    "baseItem": {
+      "name": "Greaves",
+      "code": "hbt",
+      "variants": [
+        "hbt",
+        "xhb",
+        "uhb"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Immortal King's Stone Crusher",
+    "baseItem": {
+      "name": "Maul",
+      "code": "mau",
+      "variants": [
+        "mau",
+        "9m9",
+        "7m7"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Arreat's Face",
     "baseItem": {
       "name": "Avenger Guard",
@@ -697,6 +1191,34 @@
       ]
     },
     "value": 60,
+    "ethereal": false
+  },
+  {
+    "itemName": "Immortal King's Forge",
+    "baseItem": {
+      "name": "Gauntlets",
+      "code": "hgl",
+      "variants": [
+        "hgl",
+        "xhg",
+        "uhg"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Sigon's Sabot",
+    "baseItem": {
+      "name": "Greaves",
+      "code": "hbt",
+      "variants": [
+        "hbt",
+        "xhb",
+        "uhb"
+      ]
+    },
+    "value": 1,
     "ethereal": false
   },
   {
@@ -728,6 +1250,34 @@
     "ethereal": false
   },
   {
+    "itemName": "Griswold's Honor",
+    "baseItem": {
+      "name": "Crown Shield",
+      "code": "pa5",
+      "variants": [
+        "pa5",
+        "paa",
+        "paf"
+      ]
+    },
+    "value": 20,
+    "ethereal": false
+  },
+  {
+    "itemName": "Sigon's Visor",
+    "baseItem": {
+      "name": "Great Helm",
+      "code": "ghm",
+      "variants": [
+        "ghm",
+        "xhm",
+        "uhm"
+      ]
+    },
+    "value": 1,
+    "ethereal": false
+  },
+  {
     "itemName": "Leviathan",
     "baseItem": {
       "name": "Field Plate",
@@ -756,6 +1306,20 @@
     "ethereal": false
   },
   {
+    "itemName": "Magnus' Skin",
+    "baseItem": {
+      "name": "Heavy Gloves",
+      "code": "vgl",
+      "variants": [
+        "vgl",
+        "xvg",
+        "uvg"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Jalal's Mane",
     "baseItem": {
       "name": "Spirit Mask",
@@ -770,20 +1334,6 @@
     "ethereal": false
   },
   {
-    "itemName": "Arkaine's Valor",
-    "baseItem": {
-      "name": "Splint Mail",
-      "code": "spl",
-      "variants": [
-        "spl",
-        "xpl",
-        "upl"
-      ]
-    },
-    "value": 10,
-    "ethereal": false
-  },
-  {
     "itemName": "Wizendraw",
     "baseItem": {
       "name": "Long Battle Bow",
@@ -795,6 +1345,18 @@
       ]
     },
     "value": 1,
+    "ethereal": false
+  },
+  {
+    "itemName": "Atma's Scarab",
+    "baseItem": {
+      "name": "Amulet",
+      "code": "amu",
+      "variants": [
+        "amu"
+      ]
+    },
+    "value": 15,
     "ethereal": false
   },
   {
@@ -980,7 +1542,7 @@
     "ethereal": false
   },
   {
-    "itemName": "Ghoulhide",
+    "itemName": "Cleglaw's Pincers",
     "baseItem": {
       "name": "Chain Gloves",
       "code": "mgl",
@@ -990,7 +1552,7 @@
         "umg"
       ]
     },
-    "value": 2,
+    "value": 1,
     "ethereal": false
   },
   {
@@ -1061,6 +1623,34 @@
       ]
     },
     "value": 1,
+    "ethereal": false
+  },
+  {
+    "itemName": "Aldur's Stony Gaze",
+    "baseItem": {
+      "name": "Antlers",
+      "code": "dr3",
+      "variants": [
+        "dr3",
+        "dr8",
+        "drd"
+      ]
+    },
+    "value": 20,
+    "ethereal": false
+  },
+  {
+    "itemName": "Aldur's Deception",
+    "baseItem": {
+      "name": "Full Plate Mail",
+      "code": "ful",
+      "variants": [
+        "ful",
+        "xul",
+        "uul"
+      ]
+    },
+    "value": 30,
     "ethereal": false
   },
   {
@@ -1176,14 +1766,42 @@
     "ethereal": false
   },
   {
-    "itemName": "Lycander's Aim",
+    "itemName": "Natalya's Mark",
     "baseItem": {
-      "name": "Reflex Bow",
-      "code": "am2",
+      "name": "Scissors Katar",
+      "code": "skr",
       "variants": [
-        "am2",
-        "am7",
-        "amc"
+        "skr",
+        "9qr",
+        "7qr"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Natalya's Totem",
+    "baseItem": {
+      "name": "Bone Helm",
+      "code": "bhm",
+      "variants": [
+        "bhm",
+        "xh9",
+        "uh9"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Natalya's Shadow",
+    "baseItem": {
+      "name": "Scale Mail",
+      "code": "scl",
+      "variants": [
+        "scl",
+        "xcl",
+        "ucl"
       ]
     },
     "value": 2,

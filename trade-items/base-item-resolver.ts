@@ -6,7 +6,18 @@ export interface BaseItem {
   variants: string[];
 }
 
-const BASE_ITEMS: BaseItem[] = [];
+const BASE_ITEMS: BaseItem[] = [
+  {
+    name: "Amulet",
+    code: "amu",
+    variants: ["amu"],
+  },
+  {
+    name: "Ring",
+    code: "rin",
+    variants: ["rin"],
+  },
+];
 
 const WEAPONS_TSV = fs.readFileSync("./ref-data/weapons.tsv", "utf8");
 const ARMORS_TSV = fs.readFileSync("./ref-data/armor.tsv", "utf8");

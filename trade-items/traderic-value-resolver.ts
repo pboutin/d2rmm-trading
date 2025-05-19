@@ -18,6 +18,11 @@ const CURRENCY_VALUES = {
   "Zod(33)": 160,
 };
 
+const OVERRIDES = {
+  "Tal Rasha's Adjudication": 25,
+  "Laying of Hands": 5,
+};
+
 const VALUE_MAP = new Map<string, number>();
 
 const normalizeItemName = (itemName: string) => {
@@ -28,14 +33,14 @@ fs.readFileSync("./ref-data/traderic-recipes.txt", "utf8")
   .split("\n")
   .forEach((line) => {
     const match = line.match(
-      / \+ (\w+\(\d+\)|Perfect Amethyst) x(\d+) \+ Scroll of Town Portal = ([' \w]+)/
+      / \+ (\w+\(\d+\)|Perfect Amethyst) x(\d+) (\+ Key |)\+ Scroll of Town Portal = ([' \-\w]+)/
     );
 
     if (!match) return;
 
     const currency = match[1];
     const currencyQuantity = parseInt(match[2], 10);
-    const item = match[3];
+    const item = match[4];
 
     if (!CURRENCY_VALUES[currency]) return;
 
@@ -44,6 +49,7 @@ fs.readFileSync("./ref-data/traderic-recipes.txt", "utf8")
   });
 
 const resolveValue = (itemName: string) => {
+  if (OVERRIDES[itemName]) return OVERRIDES[itemName];
   return VALUE_MAP.get(normalizeItemName(itemName)) ?? null;
 };
 

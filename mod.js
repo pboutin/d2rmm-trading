@@ -23,7 +23,7 @@ const CURRENCY_CODE_MAP = {
   Zod: "r33",
 };
 
-const COMBOS = [
+const PAYMENT_COMBOS = [
   [["Amethyst"], 1],
   [["Lem"], 2],
   [["Pul"], 5],
@@ -49,7 +49,7 @@ const COMBOS = [
 ];
 
 function currencyInputs(value) {
-  const closestValue = COMBOS.reduce((prev, curr) => {
+  const closestValue = PAYMENT_COMBOS.reduce((prev, curr) => {
     return Math.abs(curr[1] - value) < Math.abs(prev[1] - value) ? curr : prev;
   });
 
