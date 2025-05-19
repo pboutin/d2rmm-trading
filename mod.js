@@ -49,11 +49,13 @@ const PAYMENT_COMBOS = [
 ];
 
 function currencyInputs(value) {
-  const closestValue = PAYMENT_COMBOS.reduce((prev, curr) => {
-    return Math.abs(curr[1] - value) < Math.abs(prev[1] - value) ? curr : prev;
-  });
+  const paymentCombo = PAYMENT_COMBOS.find((combo) => combo[1] === value);
 
-  return closestValue;
+  if (!paymentCombo) {
+    throw new Error(`No payment combo found for ${value}`);
+  }
+
+  return paymentCombo[0];
 }
 
 function declareRecipe(inputs, outputs, description) {
