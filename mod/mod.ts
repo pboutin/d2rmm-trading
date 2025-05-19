@@ -1,7 +1,7 @@
 const cubemainFilename = "global\\excel\\cubemain.txt";
 const cubemain = D2RMM.readTsv(cubemainFilename);
 
-const RECIPES = fs.readFileSync("./trade-items.json", "utf8");
+import ITEMS from "./items";
 
 const TP_SCROLL = "tsc";
 
@@ -23,7 +23,7 @@ const CURRENCY_CODE_MAP = {
   Zod: "r33",
 };
 
-const PAYMENT_COMBOS = [
+const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Amethyst"], 1],
   [["Lem"], 2],
   [["Pul"], 5],
@@ -48,14 +48,23 @@ const PAYMENT_COMBOS = [
   [["Jah"], 360],
 ];
 
+const RUNES_EXCHANGES = [
+  [["Um", "Um", "Gul"], ["Vex"]],
+  [["Gul", "Ist"], ["Vex"]]
+]
+
+function runesToCodes(runes) {
+  return runes.map((rune) => CURRENCY_CODE_MAP[rune]);
+}
+
 function currencyInputs(value) {
-  const paymentCombo = PAYMENT_COMBOS.find((combo) => combo[1] === value);
+  const closestCombo = PAYMENT_COMBOS.reduce((closestCombo, combo) => {
+    const closestDiff = Math.abs(closestCombo[1] - value);
+    const currentDiff = Math.abs(combo[1] - value);
+    return currentDiff < closestDiff ? combo : closestCombo;
+  }, PAYMENT_COMBOS[0]);
 
-  if (!paymentCombo) {
-    throw new Error(`No payment combo found for ${value}`);
-  }
-
-  return paymentCombo[0];
+  return runesToCodes(closestCombo[0]);
 }
 
 function declareRecipe(inputs, outputs, description) {
@@ -87,17 +96,25 @@ function declareRecipe(inputs, outputs, description) {
   cubemain.rows.push(recipe);
 }
 
-RECIPES.forEach((recipe) => {
+ITEMS.forEach((recipe) => {
   declareRecipe(
     [recipe.baseItem.code, ...currencyInputs(recipe.value), TP_SCROLL],
-    [recipe.itemName],
+    [recipe.itemName, TP_SCROLL],
     `Buying ${recipe.itemName}`
   );
 
   declareRecipe(
     [recipe.itemName, TP_SCROLL],
-    currencyInputs(recipe.value * 0.75),
+    [...currencyInputs(recipe.value * 0.75), TP_SCROLL],
     `Selling ${recipe.itemName}`
+  );
+});
+
+RUNES_EXCHANGES.forEach((exchange) => {
+  declareRecipe(
+    [...runesToCodes(exchange[0]), TP_SCROLL],
+    [...runesToCodes(exchange[1]), TP_SCROLL],
+    `Exchange ${exchange[0]} for ${exchange[1]}`
   );
 });
 

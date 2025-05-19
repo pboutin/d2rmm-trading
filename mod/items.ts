@@ -1,4 +1,4 @@
-[
+export default [
   {
     "itemName": "Titan's Revenge",
     "baseItem": {
@@ -1807,4 +1807,4 @@
     "value": 2,
     "ethereal": false
   }
-]
+];
