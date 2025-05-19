@@ -112,6 +112,20 @@ export default [
     "ethereal": false
   },
   {
+    "itemName": "Valkyrie Wing",
+    "baseItem": {
+      "name": "Great Helm",
+      "code": "ghm",
+      "variants": [
+        "ghm",
+        "xhm",
+        "uhm"
+      ]
+    },
+    "value": 20,
+    "ethereal": false
+  },
+  {
     "itemName": "Kira's Guardian",
     "baseItem": {
       "name": "Circlet",

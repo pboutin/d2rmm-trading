@@ -1,20 +1,21 @@
-import fs from "fs";
+import UNIQUE_ITEMS from "../ref-data/uniques";
+import SET_ITEMS from "../ref-data/sets";
 
 export interface Item {
   name: string;
   code: string;
 }
 
+const TYPO_MAP: Record<string, string> = {
+  'Valkyrie Wing': 'Valkiry Wing',
+  'Tal Rasha\'s Fine-Spun Cloth': 'Tal Rasha\'s Fire-Spun Cloth',
+};
+
 const ITEMS: Item[] = [];
 
-const UNIQUES_TSV = fs.readFileSync("./ref-data/uniqueitems.tsv", "utf8");
-const SETS_TSV = fs.readFileSync("./ref-data/setitems.tsv", "utf8");
-
-UNIQUES_TSV.split("\n").forEach((line) => {
-  const values = line.split("\t");
-
-  const name = values[0];
-  const code = values[10];
+UNIQUE_ITEMS.rows.forEach((unique) => {
+  const name = unique.index;
+  const code = unique.code;
 
   ITEMS.push({
     name,
@@ -22,11 +23,9 @@ UNIQUES_TSV.split("\n").forEach((line) => {
   });
 });
 
-SETS_TSV.split("\n").forEach((line) => {
-  const values = line.split("\t");
-
-  const name = values[0];
-  const code = values[3];
+SET_ITEMS.rows.forEach((set) => {
+  const name = set.index;
+  const code = set.item;
 
   ITEMS.push({
     name,
@@ -35,7 +34,8 @@ SETS_TSV.split("\n").forEach((line) => {
 });
 
 const resolveItem = (itemName: string): Item | null => {
-  const item = ITEMS.find((item) => item.name === itemName);
+  const normalizedName = TYPO_MAP[itemName] ?? itemName;
+  const item = ITEMS.find((item) => item.name === normalizedName);
 
   return item ?? null;
 };
