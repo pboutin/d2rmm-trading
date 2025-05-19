@@ -86,11 +86,11 @@ function declareRecipe(inputs, outputs, description) {
   };
 
   if (outputs.length > 1) {
-    recipe["output a"] = outputs[1];
+    recipe["output b"] = outputs[1];
   }
 
   if (outputs.length > 2) {
-    recipe["output b"] = outputs[2];
+    recipe["output c"] = outputs[2];
   }
 
   for (let i = 0; i < inputs.length; i++) {
