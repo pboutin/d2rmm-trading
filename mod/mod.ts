@@ -7,7 +7,7 @@ import RUNES from "./runes";
 const TP_SCROLL = "tsc";
 
 const CURRENCY_CODE_MAP = {
-  Amethyst: "am",
+  Amethyst: "gpv",
   Lem: "r20",
   Pul: "r21",
   Um: "r22",
