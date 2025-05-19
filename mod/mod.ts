@@ -24,6 +24,8 @@ const CURRENCY_CODE_MAP = {
   Zod: "r33",
 };
 
+const JAH_VALUE = 360;
+
 const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Amethyst"], 1],
   [["Lem"], 2],
@@ -46,21 +48,30 @@ const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Cham", "Sur"], 240],
   [["Zod", "Lo"], 280],
   [["Ber", "Lo"], 320],
-  [["Jah"], 360],
+  [["Jah"], JAH_VALUE],
 ];
 
 function runesToCodes(runes) {
   return runes.map((rune) => CURRENCY_CODE_MAP[rune]);
 }
 
-function currencyInputs(value) {
-  const closestCombo = PAYMENT_COMBOS.reduce((closestCombo, combo) => {
-    const closestDiff = Math.abs(closestCombo[1] - value);
-    const currentDiff = Math.abs(combo[1] - value);
-    return currentDiff < closestDiff ? combo : closestCombo;
-  }, PAYMENT_COMBOS[0]);
+function valueToRunes(value) {
+  let balanceValue = value;
 
-  return runesToCodes(closestCombo[0]);
+  const additionalRunes: string[] = [];
+
+  if (value > JAH_VALUE) {
+    additionalRunes.push("Jah");
+    balanceValue -= JAH_VALUE;
+  }
+
+  const runes = PAYMENT_COMBOS.reduce((closestCombo, combo) => {
+    const closestDiff = Math.abs(closestCombo[1] - balanceValue);
+    const currentDiff = Math.abs(combo[1] - balanceValue);
+    return currentDiff < closestDiff ? combo : closestCombo;
+  }, PAYMENT_COMBOS[0])[0];
+
+  return [...additionalRunes, ...runes];
 }
 
 function declareRecipe(inputs, outputs, description) {
@@ -94,14 +105,18 @@ function declareRecipe(inputs, outputs, description) {
 
 ITEMS.forEach((recipe) => {
   declareRecipe(
-    [recipe.baseItem.code, ...currencyInputs(recipe.value), TP_SCROLL],
+    [
+      recipe.baseItem.code,
+      ...runesToCodes(valueToRunes(recipe.value)),
+      TP_SCROLL,
+    ],
     [recipe.itemName, TP_SCROLL],
     `Buying ${recipe.itemName}`
   );
 
   declareRecipe(
     [recipe.itemName, TP_SCROLL],
-    [...currencyInputs(recipe.value * 0.75), TP_SCROLL],
+    [...runesToCodes(valueToRunes(recipe.value * 0.75)), TP_SCROLL],
     `Selling ${recipe.itemName}`
   );
 });
