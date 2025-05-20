@@ -46,4 +46,5 @@ export default {
     ["Mal", "Pul"],
     ["Um", "Um"],
   ],
+  Mal: [["Um", "Pul"]],
 };

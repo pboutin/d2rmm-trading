@@ -63,7 +63,9 @@ import { valueToRunes } from "../mod/shared";
     markdownLines.push(
       `${baseItem.name} + ${valueToRunes(value).join(
         " + "
-      )} + TP :point_right: ${item.name}`
+      )} + TP :point_right: ${item.name}\n${
+        item.name
+      } + TP :point_right: ${valueToRunes(value * 0.7).join(" + ")}`
     );
 
     conflictMap.set(key, tradeItem);

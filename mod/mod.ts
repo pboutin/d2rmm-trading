@@ -67,7 +67,7 @@ ITEMS.forEach((recipe) => {
 
   declareRecipe(
     [recipe.itemName, TP_SCROLL],
-    [...runesToCodes(valueToRunes(recipe.value * 0.75)), TP_SCROLL],
+    [...runesToCodes(valueToRunes(recipe.value * 0.7)), TP_SCROLL],
     `Selling ${recipe.itemName}`
   );
 });
