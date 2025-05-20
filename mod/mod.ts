@@ -82,8 +82,8 @@ Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
   });
 
   declareRecipe(
-    runesToCodes([rune]),
-    runesToCodes(exchanges[0]),
+    [...runesToCodes([rune]), TP_SCROLL],
+    [...runesToCodes(exchanges[0]), TP_SCROLL],
     `Exchange "${rune}" for "${exchanges[0].join(" + ")}"`
   );
 });
