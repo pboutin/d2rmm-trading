@@ -6,9 +6,11 @@ import { TradeItem } from "./types";
 import resolveValue from "./traderic-value-resolver";
 import resolveBaseItem from "./base-item-resolver";
 import resolveItem from "./item-resolver";
+import { valueToRunes } from "../mod/shared";
 
 (async () => {
   const items: TradeItem[] = [];
+  const markdownLines: string[] = [];
   const conflictMap = new Map<string, TradeItem>();
   let processingCount = 0;
 
@@ -58,6 +60,12 @@ import resolveItem from "./item-resolver";
       ethereal: false,
     };
 
+    markdownLines.push(
+      `${baseItem.name} + ${valueToRunes(value).join(
+        " + "
+      )} + TP :point_right: ${item.name}`
+    );
+
     conflictMap.set(key, tradeItem);
     items.push(tradeItem);
   }
@@ -66,6 +74,8 @@ import resolveItem from "./item-resolver";
     "./mod/items.ts",
     `export default ${JSON.stringify(items, null, 2)};`
   );
+
+  fs.writeFileSync("./items.md", markdownLines.join("\n\n"));
 
   console.log("\n\nDonezo");
   console.log(`Processed ${items.length}/${processingCount} items`);
