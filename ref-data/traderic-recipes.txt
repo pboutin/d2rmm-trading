@@ -1341,19 +1341,19 @@ Other Unique Charms
 Grand Charm + Mal(23) x1 + Scroll of Town Portal = The Black Cleft
 The Black Cleft + Scroll of Town Portal = Lem(20) x1 & Ral(8) x1
 
-Grand Charm + Um(22) x1 + Scroll of Town Portal = The Bone Break
+Grand Charm + Um(22) x1 + Scroll of Town Portal = Bone Break
 The Bone Break + Scroll of Town Portal= Lem(20) x1
 
-Grand Charm + Lem(20) x1 + Scroll of Town Portal = The Flame Rift
+Grand Charm + Lem(20) x1 + Scroll of Town Portal = Flame Rift
 The Flame Rift + Scroll of Town Portal = Perfect Amethyst x1
 
-Grand Charm + Pul(21) x2 + Scroll of Town Portal = The Cold Rupture
+Grand Charm + Pul(21) x2 + Scroll of Town Portal = Cold Rupture
 The Cold Rupture + Scroll of Town Portal = Pul(21) x1
 
-Grand Charm + Vex(26) x1 + Scroll of Town Portal = The Crack of Heavens
+Grand Charm + Vex(26) x1 + Scroll of Town Portal = Crack of the Heavens
 The Crack of Heavens + Scroll of Town Portal = Ist(24) x1
 
-Grand Charm + Ist(24) x1 + Scroll of Town Portal = The Rotting Fissure
+Grand Charm + Ist(24) x1 + Scroll of Town Portal = Rotting Fissure
 The Rotting Fissure + Scroll of Town Portal = Um(22) x1
 
 

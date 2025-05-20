@@ -1,6 +1,7 @@
 import fs from "fs";
 
 import RELEVANT_ITEMS from "../maxroll-build-items/items";
+import IGNORED_ITEMS from "./ignored-items";
 import { TradeItem } from "./types";
 import resolveValue from "./traderic-value-resolver";
 import resolveBaseItem from "./base-item-resolver";
@@ -9,8 +10,15 @@ import resolveItem from "./item-resolver";
 (async () => {
   const items: TradeItem[] = [];
   const conflictMap = new Map<string, TradeItem>();
+  let processingCount = 0;
 
   for (const itemName of RELEVANT_ITEMS.noe) {
+    if (IGNORED_ITEMS.includes(itemName)) {
+      continue;
+    }
+
+    processingCount++;
+
     let item = resolveItem(itemName);
 
     if (!item) {
@@ -54,8 +62,11 @@ import resolveItem from "./item-resolver";
     items.push(tradeItem);
   }
 
-  fs.writeFileSync("./mod/items.ts", `export default ${JSON.stringify(items, null, 2)};`);
+  fs.writeFileSync(
+    "./mod/items.ts",
+    `export default ${JSON.stringify(items, null, 2)};`
+  );
 
   console.log("\n\nDonezo");
-  console.log(`Processed ${items.length}/${RELEVANT_ITEMS.noe.length} items`);
+  console.log(`Processed ${items.length}/${processingCount} items`);
 })();

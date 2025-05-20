@@ -252,6 +252,34 @@ export default [
     "ethereal": false
   },
   {
+    "itemName": "Thudergod's Vigor",
+    "baseItem": {
+      "name": "Plated Belt",
+      "code": "hbl",
+      "variants": [
+        "hbl",
+        "zhb",
+        "uhc"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Verdugo's Hearty Cord",
+    "baseItem": {
+      "name": "Belt",
+      "code": "mbl",
+      "variants": [
+        "mbl",
+        "zmb",
+        "umc"
+      ]
+    },
+    "value": 60,
+    "ethereal": false
+  },
+  {
     "itemName": "Nosferatu's Coil",
     "baseItem": {
       "name": "Light Belt",
@@ -277,6 +305,20 @@ export default [
       ]
     },
     "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Wartraveler",
+    "baseItem": {
+      "name": "Light Plated Boots",
+      "code": "tbt",
+      "variants": [
+        "tbt",
+        "xtb",
+        "utb"
+      ]
+    },
+    "value": 120,
     "ethereal": false
   },
   {
@@ -418,6 +460,18 @@ export default [
     "ethereal": false
   },
   {
+    "itemName": "Crack of the Heavens",
+    "baseItem": {
+      "name": "Grand Charm",
+      "code": "cm3",
+      "variants": [
+        "cm3"
+      ]
+    },
+    "value": 60,
+    "ethereal": false
+  },
+  {
     "itemName": "Suicide Branch",
     "baseItem": {
       "name": "Wand",
@@ -541,6 +595,30 @@ export default [
       ]
     },
     "value": 120,
+    "ethereal": false
+  },
+  {
+    "itemName": "Bone Break",
+    "baseItem": {
+      "name": "Grand Charm",
+      "code": "cm3",
+      "variants": [
+        "cm3"
+      ]
+    },
+    "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Flame Rift",
+    "baseItem": {
+      "name": "Grand Charm",
+      "code": "cm3",
+      "variants": [
+        "cm3"
+      ]
+    },
+    "value": 2,
     "ethereal": false
   },
   {
@@ -763,6 +841,20 @@ export default [
       ]
     },
     "value": 1,
+    "ethereal": false
+  },
+  {
+    "itemName": "Gorerider",
+    "baseItem": {
+      "name": "Greaves",
+      "code": "hbt",
+      "variants": [
+        "hbt",
+        "xhb",
+        "uhb"
+      ]
+    },
+    "value": 60,
     "ethereal": false
   },
   {
@@ -1093,6 +1185,18 @@ export default [
       ]
     },
     "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Rotting Fissure",
+    "baseItem": {
+      "name": "Grand Charm",
+      "code": "cm3",
+      "variants": [
+        "cm3"
+      ]
+    },
+    "value": 20,
     "ethereal": false
   },
   {

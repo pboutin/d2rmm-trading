@@ -7,8 +7,12 @@ export interface Item {
 }
 
 const TYPO_MAP: Record<string, string> = {
-  'Valkyrie Wing': 'Valkiry Wing',
-  'Tal Rasha\'s Fine-Spun Cloth': 'Tal Rasha\'s Fire-Spun Cloth',
+  "Valkyrie Wing": "Valkiry Wing",
+  "Tal Rasha's Fine-Spun Cloth": "Tal Rasha's Fire-Spun Cloth",
+  "War Traveler": "Wartraveler",
+  "Thundergod's Vigor": "Thudergod's Vigor",
+  "Verdungo's Hearty Cord": "Verdugo's Hearty Cord",
+  "Gore Rider": "Gorerider",
 };
 
 const ITEMS: Item[] = [];

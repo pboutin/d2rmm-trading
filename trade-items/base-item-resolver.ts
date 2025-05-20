@@ -18,8 +18,12 @@ const BASE_ITEMS: BaseItem[] = [
     code: "rin",
     variants: ["rin"],
   },
+  {
+    name: "Grand Charm",
+    code: "cm3",
+    variants: ["cm3"],
+  },
 ];
-
 
 const BASE_REDIRECTION_MAP = new Map<string, string>();
 
@@ -39,8 +43,6 @@ ARMORS.rows.forEach((armor) => {
     variants: [armor.normcode, armor.ubercode, armor.ultracode],
   });
 });
-
-console.log(WEAPONS)
 
 WEAPONS.rows.forEach((weapon) => {
   if (weapon.code !== weapon.normcode) return;
