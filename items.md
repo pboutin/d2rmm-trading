@@ -8,6 +8,8 @@ Gnarled Staff + Lem + TP :point_right: Naj's Puzzler
 
 Kite Shield + Um + TP :point_right: Stormshield
 
+Small Shield + Lem + TP :point_right: Mosers Blessed Circle
+
 Bone Shield + Um + TP :point_right: Lidless Wall
 
 Circlet + Jah + TP :point_right: Griffon's Eye
@@ -21,6 +23,8 @@ Circlet + Vex + TP :point_right: Kira's Guardian
 Skull Cap + Pul + TP :point_right: Rockstopper
 
 Skull Cap + Lem + TP :point_right: Tarnhelm
+
+Cap + Lem + TP :point_right: Peasent Crown
 
 Splint Mail + Um + TP :point_right: Skullder's Ire
 
@@ -60,6 +64,8 @@ Ring + Mal + TP :point_right: Raven Frost
 
 Ring + Lo + TP :point_right: The Stone of Jordan
 
+Ring + Ohm + TP :point_right: Bul Katho's Wedding Band
+
 Ring + Um + TP :point_right: Nature's Peace
 
 Ring + Lem + TP :point_right: Dwarf Star
@@ -86,9 +92,15 @@ Heavy Boots + Um + TP :point_right: Waterwalk
 
 Heavy Boots + Lo + TP :point_right: Sandstorm Trek
 
-Grand Charm + Um + TP :point_right: Bone Break
+Ring + Gul + TP :point_right: Wisp
+
+Grand Charm + Mal + TP :point_right: Bone Break
+
+Grand Charm + Um + TP :point_right: Cold Rupture
 
 Grand Charm + Lem + TP :point_right: Flame Rift
+
+Blade + Amethyst + TP :point_right: Irices Shard
 
 Dagger + Amethyst + TP :point_right: Gull
 
@@ -105,6 +117,8 @@ Amulet + Um + TP :point_right: Seraph's Hymn
 Sash + Mal + TP :point_right: Death's Guard
 
 Kriss + Um + TP :point_right: Fleshripper
+
+Bone Helm + Gul + TP :point_right: Vampiregaze
 
 Great Helm + Um + TP :point_right: Guillaume's Face
 
@@ -153,6 +167,8 @@ Ancient Armor + Lo + TP :point_right: Tyrael's Might
 Light Gauntlets + Amethyst + TP :point_right: M'avina's Icy Clutch
 
 Light Belt + Lem + TP :point_right: M'avina's Tenet
+
+Sacred Globe + Vex + TP :point_right: Eschuta's temper
 
 Jared's Stone + Gul + TP :point_right: The Oculus
 
@@ -209,6 +225,8 @@ Gauntlets + Zod + TP :point_right: Steelrend
 Heavy Gloves + Lem + TP :point_right: Magnus' Skin
 
 Spirit Mask + Lem + TP :point_right: Jalal's Mane
+
+Wolf Head + Ist + TP :point_right: Cerebus
 
 Long Battle Bow + Amethyst + TP :point_right: Wizendraw
 

@@ -21,6 +21,7 @@ const CURRENCY_VALUES = {
 const OVERRIDES = {
   "Tal Rasha's Adjudication": 25,
   "Laying of Hands": 5,
+  "Bone Break": 15,
 };
 
 const VALUE_MAP = new Map<string, number>();

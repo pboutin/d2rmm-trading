@@ -13,6 +13,14 @@ const TYPO_MAP: Record<string, string> = {
   "Thundergod's Vigor": "Thudergod's Vigor",
   "Verdungo's Hearty Cord": "Verdugo's Hearty Cord",
   "Gore Rider": "Gorerider",
+  "Moser's Blessed Circle": "Mosers Blessed Circle",
+  "Peasant Crown": "Peasent Crown",
+  "Bul-Kathos' Wedding Band": "Bul Katho's Wedding Band",
+  "Wisp Projector": "Wisp",
+  "Spectral Shard": "Irices Shard",
+  "Vampire Gaze": "Vampiregaze",
+  "Eschuta's Temper": "Eschuta's temper",
+  "Cerebus' Bite": "Cerebus",
 };
 
 const ITEMS: Item[] = [];

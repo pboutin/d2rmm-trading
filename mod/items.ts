@@ -70,6 +70,20 @@ export default [
     "ethereal": false
   },
   {
+    "itemName": "Mosers Blessed Circle",
+    "baseItem": {
+      "name": "Small Shield",
+      "code": "sml",
+      "variants": [
+        "sml",
+        "xml",
+        "uml"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
     "itemName": "Lidless Wall",
     "baseItem": {
       "name": "Bone Shield",
@@ -162,6 +176,20 @@ export default [
         "skp",
         "xkp",
         "ukp"
+      ]
+    },
+    "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Peasent Crown",
+    "baseItem": {
+      "name": "Cap",
+      "code": "cap",
+      "variants": [
+        "cap",
+        "xap",
+        "uap"
       ]
     },
     "value": 2,
@@ -424,6 +452,18 @@ export default [
     "ethereal": false
   },
   {
+    "itemName": "Bul Katho's Wedding Band",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 80,
+    "ethereal": false
+  },
+  {
     "itemName": "Nature's Peace",
     "baseItem": {
       "name": "Ring",
@@ -598,7 +638,31 @@ export default [
     "ethereal": false
   },
   {
+    "itemName": "Wisp",
+    "baseItem": {
+      "name": "Ring",
+      "code": "rin",
+      "variants": [
+        "rin"
+      ]
+    },
+    "value": 40,
+    "ethereal": false
+  },
+  {
     "itemName": "Bone Break",
+    "baseItem": {
+      "name": "Grand Charm",
+      "code": "cm3",
+      "variants": [
+        "cm3"
+      ]
+    },
+    "value": 15,
+    "ethereal": false
+  },
+  {
+    "itemName": "Cold Rupture",
     "baseItem": {
       "name": "Grand Charm",
       "code": "cm3",
@@ -619,6 +683,20 @@ export default [
       ]
     },
     "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Irices Shard",
+    "baseItem": {
+      "name": "Blade",
+      "code": "bld",
+      "variants": [
+        "bld",
+        "9bl",
+        "7bl"
+      ]
+    },
+    "value": 1,
     "ethereal": false
   },
   {
@@ -729,6 +807,20 @@ export default [
       ]
     },
     "value": 10,
+    "ethereal": false
+  },
+  {
+    "itemName": "Vampiregaze",
+    "baseItem": {
+      "name": "Bone Helm",
+      "code": "bhm",
+      "variants": [
+        "bhm",
+        "xh9",
+        "uh9"
+      ]
+    },
+    "value": 40,
     "ethereal": false
   },
   {
@@ -1061,6 +1153,20 @@ export default [
       ]
     },
     "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Eschuta's temper",
+    "baseItem": {
+      "name": "Sacred Globe",
+      "code": "ob2",
+      "variants": [
+        "ob2",
+        "ob7",
+        "obc"
+      ]
+    },
+    "value": 60,
     "ethereal": false
   },
   {
@@ -1449,6 +1555,20 @@ export default [
       ]
     },
     "value": 2,
+    "ethereal": false
+  },
+  {
+    "itemName": "Cerebus",
+    "baseItem": {
+      "name": "Wolf Head",
+      "code": "dr1",
+      "variants": [
+        "dr1",
+        "dr6",
+        "drb"
+      ]
+    },
+    "value": 20,
     "ethereal": false
   },
   {
