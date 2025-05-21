@@ -73,7 +73,7 @@ import RUNES from "../mod/runes";
     `export default ${JSON.stringify(items, null, 2)};`
   );
 
-  fs.writeFileSync("./items.md", markdownLines.join("\n\n\n\n"));
+  fs.writeFileSync("./items.md", markdownLines.join("\n\n____________\n\n"));
 
   fs.writeFileSync(
     "./runes.md",
