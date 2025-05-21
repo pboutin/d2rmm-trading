@@ -22,7 +22,12 @@ function adjustDuplicateCodes(codes: string[]) {
   });
 }
 
-function declareRecipe(inputs, outputs, description) {
+function declareRecipe(
+  inputs: string[],
+  outputs: string[],
+  description: string,
+  additional: Record<string, string> = {}
+) {
   const effectiveInputs = adjustDuplicateCodes(inputs);
   const effectiveOutputs = adjustDuplicateCodes(outputs);
 
@@ -33,6 +38,7 @@ function declareRecipe(inputs, outputs, description) {
     version: "100",
     lvl: "100",
     ilvl: "1000",
+    ...additional,
     "*eol\r": "0",
   };
 
@@ -86,6 +92,13 @@ Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
     [...runesToCodes(exchanges[0]), TP_SCROLL],
     `Exchange "${rune}" for "${exchanges[0].join(" + ")}"`
   );
+});
+
+// Test skillers
+declareRecipe(["cm3", TP_SCROLL], ["cm3,mag,pre=349"], "Test skillers", {
+  mod1: "skilltab",
+  "mod 1 min": "2",
+  "mod 1 max": "2",
 });
 
 D2RMM.writeTsv(cubemainFilename, cubemain);
