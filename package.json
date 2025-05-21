@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Offline alternative to Battle.net trading",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "update": "tsx src/update.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pboutin/d2rmm-trading.git"
