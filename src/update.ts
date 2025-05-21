@@ -6,6 +6,7 @@ import resolveValue from "./traderic-value-resolver";
 import resolveBaseItem from "./base-item-resolver";
 import resolveItem from "./item-resolver";
 import { valueToRunes } from "../mod/shared";
+import RUNES from "../mod/runes";
 
 (async () => {
   const items: TradeItem[] = [];
@@ -73,6 +74,16 @@ import { valueToRunes } from "../mod/shared";
   );
 
   fs.writeFileSync("./items.md", markdownLines.join("\n\n"));
+
+  fs.writeFileSync(
+    "./runes.md",
+    Array.from(Object.entries(RUNES))
+      .map(
+        ([rune, recipes]) =>
+          `## ${rune}\n${recipes.map((v) => v.join(" + ")).join("\n")}`
+      )
+      .join("\n\n")
+  );
 
   console.log("\n\nDonezo");
   console.log(`Processed ${items.length}/${processingCount} items`);
