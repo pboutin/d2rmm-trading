@@ -59,7 +59,7 @@ import RUNES from "../mod/runes";
     markdownLines.push(
       `${baseItem.name} + ${valueToRunes(value).join(
         " + "
-      )} + TP :point_right: ${item.name}\n${
+      )} + TP :point_right: ${item.name}\n\n${
         item.name
       } + TP :point_right: ${valueToRunes(value * 0.7).join(" + ")}`
     );
@@ -73,16 +73,16 @@ import RUNES from "../mod/runes";
     `export default ${JSON.stringify(items, null, 2)};`
   );
 
-  fs.writeFileSync("./items.md", markdownLines.join("\n\n"));
+  fs.writeFileSync("./items.md", markdownLines.join("\n\n\n\n"));
 
   fs.writeFileSync(
     "./runes.md",
     Array.from(Object.entries(RUNES))
       .map(
         ([rune, recipes]) =>
-          `## ${rune}\n${recipes.map((v) => v.join(" + ")).join("\n")}`
+          `## ${rune}\n${recipes.map((v) => v.join(" + ")).join("\n\n")}`
       )
-      .join("\n\n")
+      .join("\n\n\n\n")
   );
 
   console.log("\n\nDonezo");
