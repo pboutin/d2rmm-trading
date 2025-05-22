@@ -95,8 +95,8 @@ Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
 });
 
 // Test skillers
-declareRecipe(["cm3", TP_SCROLL], ["cm3,mag,pre=349"], "Test skillers", {
-  mod1: "skilltab",
+declareRecipe(["isc", TP_SCROLL], ["cm3,mag"], "Test skillers", {
+  "mod 1": "skilltab",
   "mod 1 min": "2",
   "mod 1 max": "2",
 });
