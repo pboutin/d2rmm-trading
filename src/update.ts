@@ -78,14 +78,14 @@ import FACETS from "../mod/facets";
 
   fs.writeFileSync(
     "./facets.md",
-    `# Facets\n\n${FACETS.map(
+    FACETS.map(
       (f) =>
-        `${valueToRunes(f.value).join(" + ")} + Health Pot + TP :point_right: ${
-          f.name
-        } (Death)\n\n${valueToRunes(f.value).join(
+        `# ${f.name}\n\n${valueToRunes(f.value).join(
           " + "
-        )} + Mana Pot + TP :point_right: ${f.name} (Level up)`
-    ).join("\n\n\n\n")}`
+        )} + Health Pot + TP :point_right: ${f.name} (Death)\n\n${valueToRunes(
+          f.value
+        ).join(" + ")} + Mana Pot + TP :point_right: ${f.name} (Level up)`
+    ).join("\n\n\n\n")
   );
 
   fs.writeFileSync(
