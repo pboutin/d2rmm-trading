@@ -18,6 +18,8 @@ const CURRENCY_CODE_MAP = {
 
 const JAH_VALUE = 360;
 
+export const SELLING_RATE = 0.7;
+
 export const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Amethyst"], 1],
   [["Lem"], 2],

@@ -3,9 +3,13 @@ const cubemain = D2RMM.readTsv(cubemainFilename);
 
 import ITEMS from "./items";
 import RUNES from "./runes";
-import { runesToCodes, valueToRunes } from "./shared";
+import FACETS from "./facets";
+
+import { SELLING_RATE, runesToCodes, valueToRunes } from "./shared";
 
 const TP_SCROLL = "tsc";
+const MANA_POT = "mpot";
+const HEALTH_POT = "hpot";
 
 function adjustDuplicateCodes(codes: string[]) {
   const codeCountMap: Map<string, number> = codes.reduce(
@@ -73,7 +77,7 @@ ITEMS.forEach((recipe) => {
 
   declareRecipe(
     [recipe.itemName, TP_SCROLL],
-    [...runesToCodes(valueToRunes(recipe.value * 0.7)), TP_SCROLL],
+    [...runesToCodes(valueToRunes(recipe.value * SELLING_RATE)), TP_SCROLL],
     `Selling ${recipe.itemName}`
   );
 });
@@ -91,6 +95,30 @@ Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
     [...runesToCodes([rune]), TP_SCROLL],
     [...runesToCodes(exchanges[0]), TP_SCROLL],
     `Exchange "${rune}" for "${exchanges[0].join(" + ")}"`
+  );
+});
+
+FACETS.forEach((facet) => {
+  declareRecipe(
+    [...runesToCodes(valueToRunes(facet.value)), HEALTH_POT, TP_SCROLL],
+    [facet.deathCode, TP_SCROLL],
+    `Buying ${facet.name} (Death)`
+  );
+  declareRecipe(
+    [...runesToCodes(valueToRunes(facet.value)), MANA_POT, TP_SCROLL],
+    [facet.levelCode, TP_SCROLL],
+    `Buying ${facet.name} (Level up)`
+  );
+
+  declareRecipe(
+    [facet.deathCode, TP_SCROLL],
+    [...runesToCodes(valueToRunes(facet.value * SELLING_RATE)), TP_SCROLL],
+    `Selling ${facet.name} (Death)`
+  );
+  declareRecipe(
+    [facet.levelCode, TP_SCROLL],
+    [...runesToCodes(valueToRunes(facet.value * SELLING_RATE)), TP_SCROLL],
+    `Selling ${facet.name} (Level up)`
   );
 });
 

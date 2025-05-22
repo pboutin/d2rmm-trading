@@ -7,6 +7,7 @@ import resolveBaseItem from "./base-item-resolver";
 import resolveItem from "./item-resolver";
 import { PAYMENT_COMBOS, valueToRunes } from "../mod/shared";
 import RUNES from "../mod/runes";
+import FACETS from "../mod/facets";
 
 (async () => {
   const items: TradeItem[] = [];
@@ -74,6 +75,18 @@ import RUNES from "../mod/runes";
   );
 
   fs.writeFileSync("./items.md", markdownLines.join("\n\n____________\n\n"));
+
+  fs.writeFileSync(
+    "./facets.md",
+    `# Facets\n\n${FACETS.map(
+      (f) =>
+        `${valueToRunes(f.value).join(" + ")} + Health Pot + TP :point_right: ${
+          f.name
+        } (Death)\n\n${valueToRunes(f.value).join(
+          " + "
+        )} + Mana Pot + TP :point_right: ${f.name} (Level up)`
+    ).join("\n\n\n\n")}`
+  );
 
   fs.writeFileSync(
     "./runes.md",
