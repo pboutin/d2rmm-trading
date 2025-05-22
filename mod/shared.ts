@@ -18,7 +18,7 @@ const CURRENCY_CODE_MAP = {
 
 const JAH_VALUE = 360;
 
-const PAYMENT_COMBOS: Array<[string[], number]> = [
+export const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Amethyst"], 1],
   [["Lem"], 2],
   [["Pul"], 5],

@@ -1,3 +1,32 @@
+# Values
+
+| Runes | Value |
+| --- | --- |
+| Amethyst | 1 |
+| Lem | 2 |
+| Pul | 5 |
+| Um | 10 |
+| Mal | 15 |
+| Ist | 20 |
+| Mal + Um | 25 |
+| Ist + Um | 30 |
+| Ist + Mal | 35 |
+| Gul | 40 |
+| Vex | 60 |
+| Ohm | 80 |
+| Cham | 100 |
+| Lo | 120 |
+| Sur | 140 |
+| Zod | 160 |
+| Ohm + Cham | 180 |
+| Ber | 200 |
+| Cham + Sur | 240 |
+| Zod + Lo | 280 |
+| Ber + Lo | 320 |
+| Jah | 360 |
+
+# Trades
+
 ## Jah
 Ber + Zod
 

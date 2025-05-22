@@ -5,7 +5,7 @@ import { TradeItem } from "./types";
 import resolveValue from "./traderic-value-resolver";
 import resolveBaseItem from "./base-item-resolver";
 import resolveItem from "./item-resolver";
-import { valueToRunes } from "../mod/shared";
+import { PAYMENT_COMBOS, valueToRunes } from "../mod/shared";
 import RUNES from "../mod/runes";
 
 (async () => {
@@ -77,12 +77,14 @@ import RUNES from "../mod/runes";
 
   fs.writeFileSync(
     "./runes.md",
-    Array.from(Object.entries(RUNES))
+    `# Values\n\n| Runes | Value |\n| --- | --- |\n${PAYMENT_COMBOS.map(
+      ([runes, value]) => `| ${runes.join(" + ")} | ${value} |`
+    ).join("\n")}\n\n# Trades\n\n${Array.from(Object.entries(RUNES))
       .map(
         ([rune, recipes]) =>
           `## ${rune}\n${recipes.map((v) => v.join(" + ")).join("\n\n")}`
       )
-      .join("\n\n\n\n")
+      .join("\n\n\n\n")}`
   );
 
   console.log("\n\nDonezo");
