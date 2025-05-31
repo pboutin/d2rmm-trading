@@ -1,26 +1,29 @@
 const cubemainFilename = "global\\excel\\cubemain.txt";
 const cubemain = D2RMM.readTsv(cubemainFilename);
-const uniqueitemsFilename = 'global\\excel\\uniqueitems.txt';
+const uniqueitemsFilename = "global\\excel\\uniqueitems.txt";
 const uniqueitems = D2RMM.readTsv(uniqueitemsFilename);
-const itemsFilename = 'hd\\items\\items.json';
+const itemsFilename = "hd\\items\\items.json";
 const items = D2RMM.readJson(itemsFilename);
-const itemNamesFilename = 'local\\lng\\strings\\item-names.json';
+const itemNamesFilename = "local\\lng\\strings\\item-names.json";
 const itemNames = D2RMM.readJson(itemNamesFilename);
-const miscFilename = 'global\\excel\\misc.txt';
+const miscFilename = "global\\excel\\misc.txt";
 const misc = D2RMM.readTsv(miscFilename);
 
 import ITEMS from "./items";
 import RUNES from "./runes";
 import FACETS from "./facets";
-
+import SKILLERS from "./skillers";
 import { SELLING_RATE, runesToCodes, valueToRunes } from "./shared";
 
 const TP_SCROLL = "tsc";
 const MANA_POT = "mpot";
 const HEALTH_POT = "hpot";
-const BASE_SKILLER_ITEM = uniqueitems.rows.find((row) => row.index === "Gheed's Fortune");
+const BASE_SKILLER_ITEM = uniqueitems.rows.find(
+  (row) => row.index === "Gheed's Fortune"
+);
 
-let nextUniqueItemId = Math.max(...uniqueitems.rows.map((row) => parseInt(row['*ID'], 10))) + 1;
+let nextUniqueItemId =
+  Math.max(...uniqueitems.rows.map((row) => parseInt(row["*ID"], 10))) + 1;
 
 function adjustDuplicateCodes(codes: string[]) {
   const codeCountMap: Map<string, number> = codes.reduce(
@@ -38,46 +41,37 @@ function adjustDuplicateCodes(codes: string[]) {
 }
 
 items.push({
-	cm9: { asset: 'charm/charm_large' },
+  cm9: { asset: "charm/charm_large" },
 });
 
 function declareSkiller(name: string, skillCode: string) {
-  const itemCode = 'cm9';
+  const itemCode = "cm9";
 
   misc.rows.push({
-    ...misc.rows.find((row) => row.name === 'Grand Charm'),
+    ...misc.rows.find((row) => row.name === "Grand Charm"),
     name: name,
-    level: '50',
+    level: "50",
     code: itemCode,
-    unique: '1',
-    // cost: '0',
-    // 'gamble cost': '0',
-    // GheedMin: '1',
-    // GheedMax: '1',
-    // GheedMagicMin: '1',
-    // GheedMagicMax: '1',
-    // GheedMagicLevel: '255',
-    // PermStoreItem: '1',
-    // multibuy: '1',
-    NightmareUpgrade: 'xxx',
-    HellUpgrade: 'xxx',
+    unique: "1",
+    NightmareUpgrade: "xxx",
+    HellUpgrade: "xxx",
   });
 
   uniqueitems.rows.push({
     ...BASE_SKILLER_ITEM,
     index: name,
-    '*ID': `${nextUniqueItemId++}`,
-    lvl: '1',
-    'lvl req': '50',
+    "*ID": `${nextUniqueItemId++}`,
+    lvl: "1",
+    "lvl req": "50",
     code: itemCode,
-    'cost mult': '1',
-    'cost add': '1',
-    nolimit: '1',
+    "cost mult": "1",
+    "cost add": "1",
+    nolimit: "1",
     carry1: "",
-    prop1: 'skilltab',
+    prop1: "skilltab",
     par1: skillCode,
-    min1: '1',
-    max1: '1',
+    min1: "1",
+    max1: "1",
     prop2: null,
     par2: null,
     min2: null,
@@ -91,7 +85,7 @@ function declareSkiller(name: string, skillCode: string) {
     min4: null,
     max4: null,
   });
-  
+
   itemNames.push({
     id: D2RMM.getNextStringID(),
     Key: name,
@@ -207,17 +201,20 @@ FACETS.forEach((facet) => {
   // );
 });
 
-// Test skillers
-const skillerName = "Bought Harpoonist's";
-declareSkiller(skillerName, "2");
-
-declareRecipe(["isc", TP_SCROLL, HEALTH_POT], [skillerName, "isc", TP_SCROLL], `Buying ${skillerName}`);
-
-const skillerName2 = "Bought Chilling";
-declareSkiller(skillerName2, "5");
-
-declareRecipe(["isc", TP_SCROLL, MANA_POT], [skillerName2, "isc", TP_SCROLL], `Buying ${skillerName2}`);
-
+SKILLERS.forEach(({ name, skillCode, value, gem }) => {
+  const skillerName = `Crafted ${name}`;
+  declareSkiller(skillerName, skillCode);
+  declareRecipe(
+    [...runesToCodes(valueToRunes(value)), gem, TP_SCROLL],
+    [skillerName, gem, TP_SCROLL],
+    `Buying ${skillerName}`
+  );
+  declareRecipe(
+    [skillerName, TP_SCROLL],
+    [...runesToCodes(valueToRunes(value * SELLING_RATE)), TP_SCROLL],
+    `Selling ${skillerName}`
+  );
+});
 
 D2RMM.writeTsv(miscFilename, misc);
 D2RMM.writeTsv(cubemainFilename, cubemain);
