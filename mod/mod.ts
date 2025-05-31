@@ -159,6 +159,12 @@ ITEMS.forEach((recipe) => {
     [...runesToCodes(valueToRunes(recipe.value * SELLING_RATE)), TP_SCROLL],
     `Selling ${recipe.itemName}`
   );
+
+  declareRecipe(
+    [recipe.itemName, TP_SCROLL, HEALTH_POT, MANA_POT],
+    [recipe.itemName, TP_SCROLL, HEALTH_POT, MANA_POT],
+    `Rerolling ${recipe.itemName}`
+  );
 });
 
 Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
