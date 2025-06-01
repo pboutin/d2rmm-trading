@@ -45,8 +45,12 @@ export const PAYMENT_COMBOS: Array<[string[], number]> = [
   [["Jah"], JAH_VALUE],
 ];
 
+export function runeToCode(rune: string) {
+  return CURRENCY_CODE_MAP[rune];
+}
+
 export function runesToCodes(runes) {
-  return runes.map((rune) => CURRENCY_CODE_MAP[rune]);
+  return runes.map(runeToCode);
 }
 
 export function valueToRunes(value) {

@@ -13,7 +13,7 @@ import ITEMS from "./items";
 import RUNES from "./runes";
 import FACETS from "./facets";
 import SKILLERS from "./skillers";
-import { SELLING_RATE, runesToCodes, valueToRunes } from "./shared";
+import { SELLING_RATE, runeToCode, runesToCodes, valueToRunes } from "./shared";
 
 const TP_SCROLL = "tsc";
 const ID_SCROLL = "isc";
@@ -169,16 +169,16 @@ ITEMS.forEach((recipe) => {
 });
 
 Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
-  exchanges.forEach((exchange) => {
+  exchanges.forEach((exchangeRunes) => {
     declareRecipe(
-      [...runesToCodes(exchange), TP_SCROLL],
-      [...runesToCodes([rune]), TP_SCROLL],
-      `Exchange "${exchange.join(" + ")}" for "${rune}"`
+      [...runesToCodes(exchangeRunes), TP_SCROLL],
+      [runeToCode(rune), TP_SCROLL],
+      `Exchange "${exchangeRunes.join(" + ")}" for "${rune}"`
     );
   });
 
   declareRecipe(
-    [...runesToCodes([rune]), TP_SCROLL],
+    [runeToCode(rune), TP_SCROLL],
     [...runesToCodes(exchanges[0]), TP_SCROLL],
     `Exchange "${rune}" for "${exchanges[0].join(" + ")}"`
   );
