@@ -197,6 +197,7 @@ export default {
     "Natalya's Mark",
     "Natalya's Totem",
     "Natalya's Shadow",
+    "Herald of Zakarum",
   ],
   eth: [
     "Titan's Revenge",

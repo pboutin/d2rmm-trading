@@ -889,3 +889,9 @@ ____________
 Scale Mail + Lem + TP :point_right: Natalya's Shadow
 
 Natalya's Shadow + TP :point_right: Amethyst
+
+____________
+
+Kite Shield + Vex + TP :point_right: Herald of Zakarum
+
+Herald of Zakarum + TP :point_right: Gul

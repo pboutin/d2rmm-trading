@@ -2044,5 +2044,19 @@ export default [
     },
     "value": 2,
     "ethereal": false
+  },
+  {
+    "itemName": "Herald of Zakarum",
+    "baseItem": {
+      "name": "Kite Shield",
+      "code": "kit",
+      "variants": [
+        "kit",
+        "xit",
+        "uit"
+      ]
+    },
+    "value": 60,
+    "ethereal": false
   }
 ];

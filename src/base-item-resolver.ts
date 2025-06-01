@@ -33,6 +33,8 @@ const BASE_REDIRECTION_MAP = new Map<string, string>();
 ["am3", "am8", "amd"].forEach((code) => BASE_REDIRECTION_MAP.set(code, "spr"));
 // Amazon pikes to regular pikes
 ["am4", "am9", "ame"].forEach((code) => BASE_REDIRECTION_MAP.set(code, "pik"));
+// Paladin shields to kite shield
+["pa9"].forEach((code) => BASE_REDIRECTION_MAP.set(code, "kit"));
 
 ARMORS.rows.forEach((armor) => {
   if (armor.code !== armor.normcode) return;
