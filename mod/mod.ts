@@ -16,6 +16,7 @@ import SKILLERS from "./skillers";
 import { SELLING_RATE, runesToCodes, valueToRunes } from "./shared";
 
 const TP_SCROLL = "tsc";
+const ID_SCROLL = "isc";
 const MANA_POT = "mpot";
 const HEALTH_POT = "hpot";
 const BASE_SKILLER_ITEM = uniqueitems.rows.find(
@@ -161,8 +162,8 @@ ITEMS.forEach((recipe) => {
   );
 
   declareRecipe(
-    [recipe.itemName, TP_SCROLL, HEALTH_POT, MANA_POT],
-    [recipe.itemName, TP_SCROLL, HEALTH_POT, MANA_POT],
+    [recipe.itemName, TP_SCROLL, ID_SCROLL],
+    [recipe.itemName, TP_SCROLL, ID_SCROLL],
     `Rerolling ${recipe.itemName}`
   );
 });
