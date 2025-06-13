@@ -106,6 +106,40 @@ function declareSkiller(name: string, skillCode: string) {
   });
 }
 
+function differentiateFacetIndex(itemId: string) {
+  const uniqueItemIndex = uniqueitems.rows.findIndex(
+    (row) => row["*ID"] === itemId
+  );
+
+  if (uniqueItemIndex === -1) {
+    throw new Error(`Item ${itemId} not found`);
+  }
+
+  const updatedIndex = `Rainbow Facet ${itemId}`
+
+  uniqueitems.rows[uniqueItemIndex].index = updatedIndex;
+
+  itemNames.push({
+    id: D2RMM.getNextStringID(),
+    Key: updatedIndex,
+    enUS: 'Rainbow Facet',
+    zhTW: 'Rainbow Facet',
+    deDE: 'Rainbow Facet',
+    esES: 'Rainbow Facet',
+    frFR: 'Rainbow Facet',
+    itIT: 'Rainbow Facet',
+    koKR: 'Rainbow Facet',
+    plPL: 'Rainbow Facet',
+    esMX: 'Rainbow Facet',
+    jaJP: 'Rainbow Facet',
+    ptBR: 'Rainbow Facet',
+    ruRU: 'Rainbow Facet',
+    zhCN: 'Rainbow Facet',
+  });
+
+  return updatedIndex;
+}
+
 function declareRecipe(
   inputs: string[],
   outputs: string[],
@@ -185,27 +219,30 @@ Array.from(Object.entries(RUNES)).forEach(([rune, exchanges]) => {
 });
 
 FACETS.forEach((facet) => {
+  const deathCode = differentiateFacetIndex(facet.deathId);
+  const levelCode = differentiateFacetIndex(facet.levelId);
+  
   declareRecipe(
     [...runesToCodes(valueToRunes(facet.value)), HEALTH_POT, TP_SCROLL],
-    [facet.deathCode, TP_SCROLL],
+    [deathCode, TP_SCROLL],
     `Buying ${facet.name} (Death)`
   );
   declareRecipe(
     [...runesToCodes(valueToRunes(facet.value)), MANA_POT, TP_SCROLL],
-    [facet.levelCode, TP_SCROLL],
+    [levelCode, TP_SCROLL],
     `Buying ${facet.name} (Level up)`
   );
 
-  // declareRecipe(
-  //   [facet.deathCode, TP_SCROLL],
-  //   [...runesToCodes(valueToRunes(facet.value * SELLING_RATE)), TP_SCROLL],
-  //   `Selling ${facet.name} (Death)`
-  // );
-  // declareRecipe(
-  //   [facet.levelCode, TP_SCROLL],
-  //   [...runesToCodes(valueToRunes(facet.value * SELLING_RATE)), TP_SCROLL],
-  //   `Selling ${facet.name} (Level up)`
-  // );
+  declareRecipe(
+    [deathCode, TP_SCROLL],
+    [...runesToCodes(valueToRunes(facet.value * SELLING_RATE)), TP_SCROLL],
+    `Selling ${facet.name} (Death)`
+  );
+  declareRecipe(
+    [levelCode, TP_SCROLL],
+    [...runesToCodes(valueToRunes(facet.value * SELLING_RATE)), TP_SCROLL],
+    `Selling ${facet.name} (Level up)`
+  );
 });
 
 SKILLERS.forEach(({ name, skillCode, value, gem }) => {
