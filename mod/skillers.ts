@@ -55,7 +55,13 @@ export default [
   {
     name: "Sparking",
     skillCode: "4",
-    value: 60,
+    value: 20,
     gem: CLASS_GEM_MAPPING.Sorceress,
+  },
+  {
+    name: "Shogukusha's",
+    skillCode: "20",
+    value: 20,
+    gem: CLASS_GEM_MAPPING.Assassin,
   },
 ];
